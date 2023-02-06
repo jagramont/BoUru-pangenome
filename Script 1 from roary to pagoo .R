@@ -1,0 +1,153 @@
+library(pagoo)
+
+ gffs <- list.files(path = "/Users/jorgeagramont/Library/CloudStorage/OneDrive-Personal/Documentos/secuencias_KI",
+                     pattern = "[.]gff$",
+                     full.names = TRUE)
+  gpa_csv <- "/Users/jorgeagramont/Library/CloudStorage/OneDrive-Personal/Documentos/secuencias_KI/demo/gene_presence_absence.csv"
+  
+  library(pagoo)
+  pg <- roary_2_pagoo(gene_presence_absence_csv = gpa_csv,
+                      gffs = gffs)
+
+
+##### Github Roary to pagoo 
+
+roary_2_pagoo <- function(gene_presence_absence_csv, gffs, sep = '__', paralog_sep = "\t"){
+  
+  message('Reading csv file (roary).')
+  df <- read.csv(gene_presence_absence_csv,
+                 header = TRUE,
+                 sep = ',',
+                 stringsAsFactors = FALSE,
+                 check.names = FALSE)
+  
+  message('Processing csv file.')
+  cluster_meta <- df[, c('Gene', 'Annotation')]
+  colnames(cluster_meta) <- c('cluster', 'Annotation')
+  
+  dims <- dim(df)
+  df <- df[, 15:dims[2]]
+  lp <- lapply(df, strsplit, paralog_sep)
+  lp <- lapply(lp, setNames, cluster_meta$cluster)
+  
+  lths <- lapply(lp, sapply, length)
+  sums <- sapply(lths, sum)
+  mm <- cbind(
+    unlist(lp, use.names = FALSE),
+    unlist(lapply(lths, function(x){
+      unlist(rep(names(x), x), use.names = FALSE)
+    }), use.names = FALSE),
+    rep(names(sums), sums)
+  )
+  mm <- as.data.frame(mm)
+  colnames(mm) <- c('gene', 'cluster', 'org')
+  
+  
+  if(missing(gffs)){
+    
+    message('Loading PgR6M class object.')
+    pg <- PgR6M$new(data = mm,
+                    cluster_meta = cluster_meta,
+                    sep = sep)
+    
+  }else{
+    
+    names(gffs) <- sub('[.]gff$', '', basename(gffs))
+    seqs <- lapply(gffs, function(x){
+      message(paste('Reading gff file', x))
+      sq <- read_gff(x)
+      #There are some tRNAs genes that are not listed in
+      # the gene_presence_absence.csv file
+      sq <- sq[which(names(sq) %in% mm$gene)]
+    })
+    
+    # Get gene information from gffs
+    mcls <- lapply(seqs, mcols)
+    mcls <- lapply(names(mcls), function(x){
+      mcls[[x]]$org <- x
+      mcls[[x]]
+    })
+    # names(mcls) <- names(seqs)
+    
+    # Just common columns
+    # cols <- Reduce(intersect, lapply(mcls, colnames))
+    
+    # Selected columns
+    cols <- c('seqid', 'type', 'start', 'end', 'strand', 'product', 'org', 'locus_tag')
+    mcls <- lapply(mcls, function(x) x[ , cols])
+    
+    # Match !
+    mcls <- do.call(rbind, mcls)
+    ma <- match(paste(mm$org, mm$gene, sep=sep), paste(mcls$org, mcls$locus_tag, sep = sep))
+    
+    mm <- cbind(mm, mcls[ma, c('seqid', 'type', 'start', 'end', 'strand', 'product')])
+    
+    message('Loading PgR6MS class object.')
+    pg <- PgR6MS$new(data = mm,
+                     cluster_meta = cluster_meta,
+                     sequences = DNAStringSetList(seqs),
+                     sep = sep)
+    
+  }
+  
+  message('Done.')
+  return(pg)
+}
+
+
+# gffs <- list.files('../../pewit2_dataset/', pattern = 'gff$', full.names = T)
+
+
+#' @importFrom Biostrings DNAStringSet subseq reverseComplement
+#' @importFrom S4Vectors mcols<-
+read_gff <- function(in_gff){
+  
+  rl <- readLines(in_gff)
+  gp_cm <- grep('^#', rl)
+  gp_fa <- grep("^##FASTA", rl)
+  
+  co_fa <- (gp_fa + 1L):length(rl)
+  rl_fa <- rl[co_fa]
+  rl_tb <- rl[-c(co_fa, gp_cm)]
+  
+  # table
+  m <- strsplit(rl_tb, '\t')
+  df <- as.data.frame(do.call(rbind, m), stringsAsFactors = FALSE)
+  m2 <- strsplit(df$V9, ';')
+  lp <- lapply(m2, function(x){
+    spl <- strsplit(x, '=')
+    val <- vapply(spl, '[', 2, FUN.VALUE = NA_character_)
+    nam <- vapply(spl, '[', 1, FUN.VALUE = NA_character_)
+    setNames(val, nam)
+  })
+  retain <- vapply(lp, function(x) "locus_tag" %in% names(x), FUN.VALUE = NA)
+  lp <- lp[retain]
+  una <- unique(names(unlist(lp, use.names = T)))
+  df2 <- as.data.frame(do.call(rbind, lapply(lp, '[', una)), stringsAsFactors = FALSE)
+  mcls <- cbind(df[retain, -9], df2)
+  colnames(mcls)[1:8] <- c('seqid', 'source', 'type', 'start',
+                           'end', 'score', 'strand', 'phase')
+  mcls$start <- as.integer(mcls$start)
+  mcls$end <- as.integer(mcls$end)
+  
+  # sequence
+  he <- grep('>', rl_fa)
+  st <- he + 1L
+  lst <- rev(st)[1]
+  en <- c((he - 1)[-1], length(rl_fa))
+  toapl <- cbind(st, en)
+  # dna <- DNAStringSet(paste0(rl_fa[ toapl[, 1]:toapl[, 2] ],collapse=''))
+  
+  dna <- DNAStringSet(apply(toapl, 1, function(x){
+    paste0(rl_fa[x[1]:x[2]], collapse = '')
+  }))
+  names(dna) <- sub('>', '', rl_fa[he])
+  
+  sequences <- subseq(dna[mcls$seqid], start = mcls$start, end = mcls$end)
+  sequences[mcls$strand=='-'] <- reverseComplement(sequences[mcls$strand=='-'])
+  names(sequences) <- mcls$locus_tag
+  mcols(sequences) <- mcls
+  
+  sequences
+}
+
