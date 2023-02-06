@@ -1,14 +1,13 @@
 library(pagoo)
 
- gffs <- list.files(path = "/Users/jorgeagramont/Library/CloudStorage/OneDrive-Personal/Documentos/secuencias_KI",
+ gffs <- list.files(path = "//Users/jorgeagramont/BoUru-pangenoma/seqs",
                      pattern = "[.]gff$",
                      full.names = TRUE)
-  gpa_csv <- "/Users/jorgeagramont/Library/CloudStorage/OneDrive-Personal/Documentos/secuencias_KI/demo/gene_presence_absence.csv"
-  
+  gpa_csv <- "/Users/jorgeagramont/BoUru-pangenoma/demo/gene_presence_absence.csv"
   library(pagoo)
   pg <- roary_2_pagoo(gene_presence_absence_csv = gpa_csv,
                       gffs = gffs)
-
+  
 
 ##### Github Roary to pagoo 
 
@@ -150,4 +149,6 @@ read_gff <- function(in_gff){
   
   sequences
 }
+
+##### 
 
