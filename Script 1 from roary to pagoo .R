@@ -4,7 +4,7 @@ library(pagoo)
                      pattern = "[.]gff$",
                      full.names = TRUE)
   gpa_csv <- "/Users/jorgeagramont/BoUru-pangenoma/demo/gene_presence_absence.csv"
-  library(pagoo)
+  
   pg <- roary_2_pagoo(gene_presence_absence_csv = gpa_csv,
                       gffs = gffs)
   
