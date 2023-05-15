@@ -1,0 +1,3829 @@
+ID   Genome standard; DNA; PRO; 1234 BP.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   feature         1..933
+FT                   /label=aaeA_3
+FT                   /locus_tag=aaeA_3
+FT   feature         934..2901
+FT                   /label=aaeB_3
+FT                   /locus_tag=aaeB_3
+FT   feature         2902..3105
+FT                   /label=aaeX
+FT                   /locus_tag=aaeX
+FT   feature         3106..4632
+FT                   /label=abgT
+FT                   /locus_tag=abgT
+FT   feature         4633..5592
+FT                   /label=accA
+FT                   /locus_tag=accA
+FT   feature         5593..6054
+FT                   /label=accB
+FT                   /locus_tag=accB
+FT   feature         6055..7404
+FT                   /label=accC
+FT                   /locus_tag=accC
+FT   feature         7405..8310
+FT                   /label=accD
+FT                   /locus_tag=accD
+FT   feature         8311..9912
+FT                   /label=aceB
+FT                   /locus_tag=aceB
+FT   feature         9913..12576
+FT                   /label=aceE
+FT                   /locus_tag=aceE
+FT   feature         12577..14478
+FT                   /label=aceF
+FT                   /locus_tag=aceF
+FT   feature         14479..15681
+FT                   /label=ackA
+FT                   /locus_tag=ackA
+FT   feature         15682..18357
+FT                   /label=acnA
+FT                   /locus_tag=acnA
+FT   feature         18358..20955
+FT                   /label=acnB
+FT                   /locus_tag=acnB
+FT   feature         20956..21192
+FT                   /label=acpP_1
+FT                   /locus_tag=acpP_1
+FT   feature         21193..21573
+FT                   /label=acpS
+FT                   /locus_tag=acpS
+FT   feature         21574..22767
+FT                   /label=acrA
+FT                   /locus_tag=acrA
+FT   feature         22768..25914
+FT                   /label=acrB_2
+FT                   /locus_tag=acrB_2
+FT   feature         25915..29028
+FT                   /label=acrF
+FT                   /locus_tag=acrF
+FT   feature         29029..30987
+FT                   /label=acs
+FT                   /locus_tag=acs
+FT   feature         30988..32637
+FT                   /label=actP
+FT                   /locus_tag=actP
+FT   feature         32638..33639
+FT                   /label=add
+FT                   /locus_tag=add
+FT   feature         33640..36318
+FT                   /label=adhE
+FT                   /locus_tag=adhE
+FT   feature         36319..36963
+FT                   /label=adk
+FT                   /locus_tag=adk
+FT   feature         36964..38286
+FT                   /label=aglB
+FT                   /locus_tag=aglB
+FT   feature         38287..38889
+FT                   /label=ahpC_1
+FT                   /locus_tag=ahpC_1
+FT   feature         38890..39909
+FT                   /label=ahr
+FT                   /locus_tag=ahr
+FT   feature         39910..41124
+FT                   /label=alaA
+FT                   /locus_tag=alaA
+FT   feature         41125..43752
+FT                   /label=alaS
+FT                   /locus_tag=alaS
+FT   feature         43753..44781
+FT                   /label=alx_1
+FT                   /locus_tag=alx_1
+FT   feature         44782..46035
+FT                   /label=amiC_2
+FT                   /locus_tag=amiC_2
+FT   feature         46036..47517
+FT                   /label=ampG
+FT                   /locus_tag=ampG
+FT   feature         47518..48807
+FT                   /label=amtB
+FT                   /locus_tag=amtB
+FT   feature         48808..49185
+FT                   /label=apaG
+FT                   /locus_tag=apaG
+FT   feature         49186..50034
+FT                   /label=apaH
+FT                   /locus_tag=apaH
+FT   feature         50035..50586
+FT                   /label=apt
+FT                   /locus_tag=apt
+FT   feature         50587..51417
+FT                   /label=aptA
+FT                   /locus_tag=aptA
+FT   feature         51418..52371
+FT                   /label=aptB
+FT                   /locus_tag=aptB
+FT   feature         52372..53088
+FT                   /label=arcA_2
+FT                   /locus_tag=arcA_2
+FT   feature         53089..53511
+FT                   /label=arfB
+FT                   /locus_tag=arfB
+FT   feature         53512..54285
+FT                   /label=argB
+FT                   /locus_tag=argB
+FT   feature         54286..55290
+FT                   /label=argC
+FT                   /locus_tag=argC
+FT   feature         55291..56511
+FT                   /label=argD
+FT                   /locus_tag=argD
+FT   feature         56512..57663
+FT                   /label=argE
+FT                   /locus_tag=argE
+FT   feature         57664..59010
+FT                   /label=argG
+FT                   /locus_tag=argG
+FT   feature         59011..60384
+FT                   /label=argH
+FT                   /locus_tag=argH
+FT   feature         60385..61020
+FT                   /label=argO
+FT                   /locus_tag=argO
+FT   feature         61021..61914
+FT                   /label=argP_2
+FT                   /locus_tag=argP_2
+FT   feature         61915..62385
+FT                   /label=argR_2
+FT                   /locus_tag=argR_2
+FT   feature         62386..64119
+FT                   /label=argS
+FT                   /locus_tag=argS
+FT   feature         64120..64902
+FT                   /label=argT_2
+FT                   /locus_tag=argT_2
+FT   feature         64903..66186
+FT                   /label=aroA
+FT                   /locus_tag=aroA
+FT   feature         66187..67275
+FT                   /label=aroB
+FT                   /locus_tag=aroB
+FT   feature         67276..68361
+FT                   /label=aroC
+FT                   /locus_tag=aroC
+FT   feature         68362..69414
+FT                   /label=aroG
+FT                   /locus_tag=aroG
+FT   feature         69415..69936
+FT                   /label=aroK
+FT                   /locus_tag=aroK
+FT   feature         69937..71307
+FT                   /label=aroP
+FT                   /locus_tag=aroP
+FT   feature         71308..71760
+FT                   /label=aroQ
+FT                   /locus_tag=aroQ
+FT   feature         71761..72492
+FT                   /label=artI
+FT                   /locus_tag=artI
+FT   feature         72493..73224
+FT                   /label=artJ
+FT                   /locus_tag=artJ
+FT   feature         73225..73893
+FT                   /label=artM_1
+FT                   /locus_tag=artM_1
+FT   feature         73894..74622
+FT                   /label=artP
+FT                   /locus_tag=artP
+FT   feature         74623..75339
+FT                   /label=artQ
+FT                   /locus_tag=artQ
+FT   feature         75340..76443
+FT                   /label=asd
+FT                   /locus_tag=asd
+FT   feature         76444..77436
+FT                   /label=asnA
+FT                   /locus_tag=asnA
+FT   feature         77437..79101
+FT                   /label=asnB
+FT                   /locus_tag=asnB
+FT   feature         79102..79560
+FT                   /label=asnC
+FT                   /locus_tag=asnC
+FT   feature         79561..80961
+FT                   /label=asnS
+FT                   /locus_tag=asnS
+FT   feature         80962..82398
+FT                   /label=aspA
+FT                   /locus_tag=aspA
+FT   feature         82399..83589
+FT                   /label=aspC
+FT                   /locus_tag=aspC
+FT   feature         83590..85377
+FT                   /label=aspS
+FT                   /locus_tag=aspS
+FT   feature         85378..87039
+FT                   /label=aspT_2
+FT                   /locus_tag=aspT_2
+FT   feature         87040..87351
+FT                   /label=atl
+FT                   /locus_tag=atl
+FT   feature         87352..88893
+FT                   /label=atpA
+FT                   /locus_tag=atpA
+FT   feature         88894..89709
+FT                   /label=atpB
+FT                   /locus_tag=atpB
+FT   feature         89710..90129
+FT                   /label=atpC
+FT                   /locus_tag=atpC
+FT   feature         90130..91512
+FT                   /label=atpD
+FT                   /locus_tag=atpD
+FT   feature         91513..91752
+FT                   /label=atpE
+FT                   /locus_tag=atpE
+FT   feature         91753..92223
+FT                   /label=atpF
+FT                   /locus_tag=atpF
+FT   feature         92224..93087
+FT                   /label=atpG
+FT                   /locus_tag=atpG
+FT   feature         93088..93621
+FT                   /label=atpH
+FT                   /locus_tag=atpH
+FT   feature         93622..94002
+FT                   /label=atpI
+FT                   /locus_tag=atpI
+FT   feature         94003..96420
+FT                   /label=bamA
+FT                   /locus_tag=bamA
+FT   feature         96421..97599
+FT                   /label=bamB
+FT                   /locus_tag=bamB
+FT   feature         97600..98634
+FT                   /label=bamC
+FT                   /locus_tag=bamC
+FT   feature         98635..99372
+FT                   /label=bamD
+FT                   /locus_tag=bamD
+FT   feature         99373..99711
+FT                   /label=bamE
+FT                   /locus_tag=bamE
+FT   feature         99712..102471
+FT                   /label=barA
+FT                   /locus_tag=barA
+FT   feature         102472..103134
+FT                   /label=basR
+FT                   /locus_tag=basR
+FT   feature         103135..104640
+FT                   /label=bauC
+FT                   /locus_tag=bauC
+FT   feature         104641..105111
+FT                   /label=bcp
+FT                   /locus_tag=bcp
+FT   feature         105112..106308
+FT                   /label=bcr
+FT                   /locus_tag=bcr
+FT   feature         106309..106503
+FT                   /label=bfd
+FT                   /locus_tag=bfd
+FT   feature         106504..106980
+FT                   /label=bfr
+FT                   /locus_tag=bfr
+FT   feature         106981..108411
+FT                   /label=bglA_2
+FT                   /locus_tag=bglA_2
+FT   feature         108412..109845
+FT                   /label=bglA_3
+FT                   /locus_tag=bglA_3
+FT   feature         109846..110745
+FT                   /label=bioP
+FT                   /locus_tag=bioP
+FT   feature         110746..111060
+FT                   /label=bolA
+FT                   /locus_tag=bolA
+FT   feature         111061..112380
+FT                   /label=brnQ
+FT                   /locus_tag=brnQ
+FT   feature         112381..113394
+FT                   /label=btuD_4
+FT                   /locus_tag=btuD_4
+FT   feature         113395..114057
+FT                   /label=can
+FT                   /locus_tag=can
+FT   feature         114058..115206
+FT                   /label=carA
+FT                   /locus_tag=carA
+FT   feature         115207..118431
+FT                   /label=carB
+FT                   /locus_tag=carB
+FT   feature         118432..119802
+FT                   /label=cbs
+FT                   /locus_tag=cbs
+FT   feature         119803..121044
+FT                   /label=cca
+FT                   /locus_tag=cca
+FT   feature         121045..122202
+FT                   /label=cdaR
+FT                   /locus_tag=cdaR
+FT   feature         122203..123060
+FT                   /label=cdsA
+FT                   /locus_tag=cdsA
+FT   feature         123061..123369
+FT                   /label=celA_2
+FT                   /locus_tag=celA_2
+FT   feature         123370..124518
+FT                   /label=cfa
+FT                   /locus_tag=cfa
+FT   feature         124519..125388
+FT                   /label=cfxP
+FT                   /locus_tag=cfxP
+FT   feature         125389..126489
+FT                   /label=chaA
+FT                   /locus_tag=chaA
+FT   feature         126490..127185
+FT                   /label=chaC
+FT                   /locus_tag=chaC
+FT   feature         127186..127533
+FT                   /label=chbA_1
+FT                   /locus_tag=chbA_1
+FT   feature         127534..127839
+FT                   /label=chbA_2
+FT                   /locus_tag=chbA_2
+FT   feature         127840..128157
+FT                   /label=chbA_3
+FT                   /locus_tag=chbA_3
+FT   feature         128158..128475
+FT                   /label=chbB
+FT                   /locus_tag=chbB
+FT   feature         128476..129834
+FT                   /label=chbC
+FT                   /locus_tag=chbC
+FT   feature         129835..131190
+FT                   /label=chbF
+FT                   /locus_tag=chbF
+FT   feature         131191..132009
+FT                   /label=chbR
+FT                   /locus_tag=chbR
+FT   feature         132010..134046
+FT                   /label=cheA
+FT                   /locus_tag=cheA
+FT   feature         134047..135096
+FT                   /label=cheB
+FT                   /locus_tag=cheB
+FT   feature         135097..135963
+FT                   /label=cheR
+FT                   /locus_tag=cheR
+FT   feature         135964..136968
+FT                   /label=cheV
+FT                   /locus_tag=cheV
+FT   feature         136969..137472
+FT                   /label=cheW
+FT                   /locus_tag=cheW
+FT   feature         137473..138870
+FT                   /label=chiP
+FT                   /locus_tag=chiP
+FT   feature         138871..139437
+FT                   /label=chrR
+FT                   /locus_tag=chrR
+FT   feature         139438..140799
+FT                   /label=cimH_2
+FT                   /locus_tag=cimH_2
+FT   feature         140800..141825
+FT                   /label=citC
+FT                   /locus_tag=citC
+FT   feature         141826..142701
+FT                   /label=citE
+FT                   /locus_tag=citE
+FT   feature         142702..144219
+FT                   /label=citF
+FT                   /locus_tag=citF
+FT   feature         144220..145026
+FT                   /label=clcD
+FT                   /locus_tag=clcD
+FT   feature         145027..147306
+FT                   /label=clpA
+FT                   /locus_tag=clpA
+FT   feature         147307..149880
+FT                   /label=clpB
+FT                   /locus_tag=clpB
+FT   feature         149881..150504
+FT                   /label=clpP_1
+FT                   /locus_tag=clpP_1
+FT   feature         150505..150825
+FT                   /label=clpS
+FT                   /locus_tag=clpS
+FT   feature         150826..152100
+FT                   /label=clpX
+FT                   /locus_tag=clpX
+FT   feature         152101..153342
+FT                   /label=clsB
+FT                   /locus_tag=clsB
+FT   feature         153343..154026
+FT                   /label=cmk
+FT                   /locus_tag=cmk
+FT   feature         154027..154956
+FT                   /label=coaA
+FT                   /locus_tag=coaA
+FT   feature         154957..156171
+FT                   /label=coaBC
+FT                   /locus_tag=coaBC
+FT   feature         156172..156819
+FT                   /label=cobC
+FT                   /locus_tag=cobC
+FT   feature         156820..157770
+FT                   /label=corA
+FT                   /locus_tag=corA
+FT   feature         157771..158694
+FT                   /label=corC
+FT                   /locus_tag=corC
+FT   feature         158695..159495
+FT                   /label=cpoB
+FT                   /locus_tag=cpoB
+FT   feature         159496..160869
+FT                   /label=cpxA
+FT                   /locus_tag=cpxA
+FT   feature         160870..161568
+FT                   /label=cpxR
+FT                   /locus_tag=cpxR
+FT   feature         161569..162576
+FT                   /label=cra_2
+FT                   /locus_tag=cra_2
+FT   feature         162577..163209
+FT                   /label=crp
+FT                   /locus_tag=crp
+FT   feature         163210..163719
+FT                   /label=crr
+FT                   /locus_tag=crr
+FT   feature         163720..163932
+FT                   /label=cspA_2
+FT                   /locus_tag=cspA_2
+FT   feature         163933..164142
+FT                   /label=cspC
+FT                   /locus_tag=cspC
+FT   feature         164143..164364
+FT                   /label=cspD
+FT                   /locus_tag=cspD
+FT   feature         164365..164574
+FT                   /label=cspE
+FT                   /locus_tag=cspE
+FT   feature         164575..164760
+FT                   /label=csrA
+FT                   /locus_tag=csrA
+FT   feature         164761..165084
+FT                   /label=cutA
+FT                   /locus_tag=cutA
+FT   feature         165085..165573
+FT                   /label=cvpA
+FT                   /locus_tag=cvpA
+FT   feature         165574..168117
+FT                   /label=cyaA
+FT                   /locus_tag=cyaA
+FT   feature         168118..168438
+FT                   /label=cyaY
+FT                   /locus_tag=cyaY
+FT   feature         168439..169848
+FT                   /label=cycA
+FT                   /locus_tag=cycA
+FT   feature         169849..171417
+FT                   /label=cydA_2
+FT                   /locus_tag=cydA_2
+FT   feature         171418..172557
+FT                   /label=cydB_2
+FT                   /locus_tag=cydB_2
+FT   feature         172558..174324
+FT                   /label=cydD
+FT                   /locus_tag=cydD
+FT   feature         174325..175272
+FT                   /label=cyoA
+FT                   /locus_tag=cyoA
+FT   feature         175273..177264
+FT                   /label=cyoB
+FT                   /locus_tag=cyoB
+FT   feature         177265..177882
+FT                   /label=cyoC
+FT                   /locus_tag=cyoC
+FT   feature         177883..178209
+FT                   /label=cyoD
+FT                   /locus_tag=cyoD
+FT   feature         178210..179097
+FT                   /label=cyoE
+FT                   /locus_tag=cyoE
+FT   feature         179098..180072
+FT                   /label=cysB
+FT                   /locus_tag=cysB
+FT   feature         180073..180678
+FT                   /label=cysC
+FT                   /locus_tag=cysC
+FT   feature         180679..181587
+FT                   /label=cysD
+FT                   /locus_tag=cysD
+FT   feature         181588..182079
+FT                   /label=cysE_1
+FT                   /locus_tag=cysE_1
+FT   feature         182080..182901
+FT                   /label=cysE_2
+FT                   /locus_tag=cysE_2
+FT   feature         182902..184260
+FT                   /label=cysG_1
+FT                   /locus_tag=cysG_1
+FT   feature         184261..184995
+FT                   /label=cysH_2
+FT                   /locus_tag=cysH_2
+FT   feature         184996..186708
+FT                   /label=cysI
+FT                   /locus_tag=cysI
+FT   feature         186709..188514
+FT                   /label=cysJ
+FT                   /locus_tag=cysJ
+FT   feature         188515..189486
+FT                   /label=cysK
+FT                   /locus_tag=cysK
+FT   feature         189487..190911
+FT                   /label=cysN
+FT                   /locus_tag=cysN
+FT   feature         190912..192297
+FT                   /label=cysS
+FT                   /locus_tag=cysS
+FT   feature         192298..193059
+FT                   /label=cysZ
+FT                   /locus_tag=cysZ
+FT   feature         193060..194085
+FT                   /label=cytR_2
+FT                   /locus_tag=cytR_2
+FT   feature         194086..195519
+FT                   /label=dacB
+FT                   /locus_tag=dacB
+FT   feature         195520..196332
+FT                   /label=dam
+FT                   /locus_tag=dam
+FT   feature         196333..197211
+FT                   /label=dapA_1
+FT                   /locus_tag=dapA_1
+FT   feature         197212..198036
+FT                   /label=dapD
+FT                   /locus_tag=dapD
+FT   feature         198037..198861
+FT                   /label=dapF
+FT                   /locus_tag=dapF
+FT   feature         198862..199422
+FT                   /label=dapH
+FT                   /locus_tag=dapH
+FT   feature         199423..200796
+FT                   /label=dat
+FT                   /locus_tag=dat
+FT   feature         200797..202476
+FT                   /label=dauA
+FT                   /locus_tag=dauA
+FT   feature         202477..203199
+FT                   /label=dauR
+FT                   /locus_tag=dauR
+FT   feature         203200..204654
+FT                   /label=davD
+FT                   /locus_tag=davD
+FT   feature         204655..205941
+FT                   /label=dctA_2
+FT                   /locus_tag=dctA_2
+FT   feature         205942..206928
+FT                   /label=dcyD
+FT                   /locus_tag=dcyD
+FT   feature         206929..208842
+FT                   /label=deaD
+FT                   /locus_tag=deaD
+FT   feature         208843..209502
+FT                   /label=dedA
+FT                   /locus_tag=dedA
+FT   feature         209503..210939
+FT                   /label=degP
+FT                   /locus_tag=degP
+FT   feature         210940..212307
+FT                   /label=degQ
+FT                   /locus_tag=degQ
+FT   feature         212308..213375
+FT                   /label=degS
+FT                   /locus_tag=degS
+FT   feature         213376..214848
+FT                   /label=der
+FT                   /locus_tag=der
+FT   feature         214849..215967
+FT                   /label=dgaE
+FT                   /locus_tag=dgaE
+FT   feature         215968..216336
+FT                   /label=dgkA
+FT                   /locus_tag=dgkA
+FT   feature         216337..217851
+FT                   /label=dgt
+FT                   /locus_tag=dgt
+FT   feature         217852..218442
+FT                   /label=diaA
+FT                   /locus_tag=diaA
+FT   feature         218443..219501
+FT                   /label=dinB
+FT                   /locus_tag=dinB
+FT   feature         219502..220317
+FT                   /label=djlA
+FT                   /locus_tag=djlA
+FT   feature         220318..221145
+FT                   /label=dkgA
+FT                   /locus_tag=dkgA
+FT   feature         221146..221601
+FT                   /label=dksA
+FT                   /locus_tag=dksA
+FT   feature         221602..222528
+FT                   /label=dmlR_12
+FT                   /locus_tag=dmlR_12
+FT   feature         222529..224973
+FT                   /label=dmsA
+FT                   /locus_tag=dmsA
+FT   feature         224974..225591
+FT                   /label=dmsB
+FT                   /locus_tag=dmsB
+FT   feature         225592..226989
+FT                   /label=dnaA
+FT                   /locus_tag=dnaA
+FT   feature         226990..228402
+FT                   /label=dnaB
+FT                   /locus_tag=dnaB
+FT   feature         228403..231885
+FT                   /label=dnaE
+FT                   /locus_tag=dnaE
+FT   feature         231886..233031
+FT                   /label=dnaJ
+FT                   /locus_tag=dnaJ
+FT   feature         233032..234945
+FT                   /label=dnaK_2
+FT                   /locus_tag=dnaK_2
+FT   feature         234946..236046
+FT                   /label=dnaN
+FT                   /locus_tag=dnaN
+FT   feature         236047..237975
+FT                   /label=dnaX
+FT                   /locus_tag=dnaX
+FT   feature         237976..239583
+FT                   /label=dppA_3
+FT                   /locus_tag=dppA_3
+FT   feature         239584..240603
+FT                   /label=dppB
+FT                   /locus_tag=dppB
+FT   feature         240604..241587
+FT                   /label=dppD_3
+FT                   /locus_tag=dppD_3
+FT   feature         241588..242091
+FT                   /label=dps
+FT                   /locus_tag=dps
+FT   feature         242092..242715
+FT                   /label=dsbA
+FT                   /locus_tag=dsbA
+FT   feature         242716..243246
+FT                   /label=dsbB
+FT                   /locus_tag=dsbB
+FT   feature         243247..243960
+FT                   /label=dsbC
+FT                   /locus_tag=dsbC
+FT   feature         243961..244149
+FT                   /label=dsrB
+FT                   /locus_tag=dsrB
+FT   feature         244150..245658
+FT                   /label=dtpA
+FT                   /locus_tag=dtpA
+FT   feature         245659..247203
+FT                   /label=dtpT
+FT                   /locus_tag=dtpT
+FT   feature         247204..248169
+FT                   /label=dusB
+FT                   /locus_tag=dusB
+FT   feature         248170..248628
+FT                   /label=dut
+FT                   /locus_tag=dut
+FT   feature         248629..250491
+FT                   /label=dxs
+FT                   /locus_tag=dxs
+FT   feature         250492..251148
+FT                   /label=eda
+FT                   /locus_tag=eda
+FT   feature         251149..252960
+FT                   /label=edd
+FT                   /locus_tag=edd
+FT   feature         252961..254244
+FT                   /label=efeB
+FT                   /locus_tag=efeB
+FT   feature         254245..255078
+FT                   /label=efeU
+FT                   /locus_tag=efeU
+FT   feature         255079..255645
+FT                   /label=efp
+FT                   /locus_tag=efp
+FT   feature         255646..256740
+FT                   /label=emrA_2
+FT                   /locus_tag=emrA_2
+FT   feature         256741..257913
+FT                   /label=emrA_3
+FT                   /locus_tag=emrA_3
+FT   feature         257914..259461
+FT                   /label=emrB_2
+FT                   /locus_tag=emrB_2
+FT   feature         259462..260169
+FT                   /label=endA
+FT                   /locus_tag=endA
+FT   feature         260170..261468
+FT                   /label=eno
+FT                   /locus_tag=eno
+FT   feature         261469..262752
+FT                   /label=envC
+FT                   /locus_tag=envC
+FT   feature         262753..264099
+FT                   /label=envZ
+FT                   /locus_tag=envZ
+FT   feature         264100..265119
+FT                   /label=epd
+FT                   /locus_tag=epd
+FT   feature         265120..266148
+FT                   /label=epmB
+FT                   /locus_tag=epmB
+FT   feature         266149..266694
+FT                   /label=epmC
+FT                   /locus_tag=epmC
+FT   feature         266695..268389
+FT                   /label=eptB
+FT                   /locus_tag=eptB
+FT   feature         268390..269295
+FT                   /label=era
+FT                   /locus_tag=era
+FT   feature         269296..270963
+FT                   /label=ettA_1
+FT                   /locus_tag=ettA_1
+FT   feature         270964..271695
+FT                   /label=exbB
+FT                   /locus_tag=exbB
+FT   feature         271696..272121
+FT                   /label=exbD
+FT                   /locus_tag=exbD
+FT   feature         272122..273420
+FT                   /label=exuT_2
+FT                   /locus_tag=exuT_2
+FT   feature         273421..273939
+FT                   /label=fabA
+FT                   /locus_tag=fabA
+FT   feature         273940..275157
+FT                   /label=fabB
+FT                   /locus_tag=fabB
+FT   feature         275158..276087
+FT                   /label=fabD_1
+FT                   /locus_tag=fabD_1
+FT   feature         276088..277329
+FT                   /label=fabF_1
+FT                   /locus_tag=fabF_1
+FT   feature         277330..278064
+FT                   /label=fabG_1
+FT                   /locus_tag=fabG_1
+FT   feature         278065..279018
+FT                   /label=fabH
+FT                   /locus_tag=fabH
+FT   feature         279019..279807
+FT                   /label=fabI
+FT                   /locus_tag=fabI
+FT   feature         279808..280446
+FT                   /label=fabR
+FT                   /locus_tag=fabR
+FT   feature         280447..280902
+FT                   /label=fabZ
+FT                   /locus_tag=fabZ
+FT   feature         280903..282066
+FT                   /label=fadA
+FT                   /locus_tag=fadA
+FT   feature         282067..284256
+FT                   /label=fadB_2
+FT                   /locus_tag=fadB_2
+FT   feature         284257..285975
+FT                   /label=fadD
+FT                   /locus_tag=fadD
+FT   feature         285976..288420
+FT                   /label=fadE
+FT                   /locus_tag=fadE
+FT   feature         288421..289731
+FT                   /label=fadI
+FT                   /locus_tag=fadI
+FT   feature         289732..290451
+FT                   /label=fadR
+FT                   /locus_tag=fadR
+FT   feature         290452..291531
+FT                   /label=fbaA_1
+FT                   /locus_tag=fbaA_1
+FT   feature         291532..292530
+FT                   /label=fbp
+FT                   /locus_tag=fbp
+FT   feature         292531..293496
+FT                   /label=fcl
+FT                   /locus_tag=fcl
+FT   feature         293497..294426
+FT                   /label=fdhE
+FT                   /locus_tag=fdhE
+FT   feature         294427..295014
+FT                   /label=fdoG_2
+FT                   /locus_tag=fdoG_2
+FT   feature         295015..295917
+FT                   /label=fdoH
+FT                   /locus_tag=fdoH
+FT   feature         295918..296553
+FT                   /label=fdoI
+FT                   /locus_tag=fdoI
+FT   feature         296554..296889
+FT                   /label=fdx
+FT                   /locus_tag=fdx
+FT   feature         296890..298251
+FT                   /label=ffh
+FT                   /locus_tag=ffh
+FT   feature         298252..299145
+FT                   /label=fieF
+FT                   /locus_tag=fieF
+FT   feature         299146..299442
+FT                   /label=fis
+FT                   /locus_tag=fis
+FT   feature         299443..300063
+FT                   /label=fklB
+FT                   /locus_tag=fklB
+FT   feature         300064..300885
+FT                   /label=fkpA
+FT                   /locus_tag=fkpA
+FT   feature         300886..301416
+FT                   /label=fldA
+FT                   /locus_tag=fldA
+FT   feature         301417..301938
+FT                   /label=fldB
+FT                   /locus_tag=fldB
+FT   feature         301939..302517
+FT                   /label=flhC
+FT                   /locus_tag=flhC
+FT   feature         302518..302868
+FT                   /label=flhD
+FT                   /locus_tag=flhD
+FT   feature         302869..303588
+FT                   /label=fliA
+FT                   /locus_tag=fliA
+FT   feature         303589..304587
+FT                   /label=fliG
+FT                   /locus_tag=fliG
+FT   feature         304588..305958
+FT                   /label=fliI
+FT                   /locus_tag=fliI
+FT   feature         305959..306402
+FT                   /label=fliJ
+FT                   /locus_tag=fliJ
+FT   feature         306403..307407
+FT                   /label=fliM
+FT                   /locus_tag=fliM
+FT   feature         307408..307821
+FT                   /label=fliN
+FT                   /locus_tag=fliN
+FT   feature         307822..308559
+FT                   /label=fliP
+FT                   /locus_tag=fliP
+FT   feature         308560..308829
+FT                   /label=fliQ
+FT                   /locus_tag=fliQ
+FT   feature         308830..309615
+FT                   /label=fliR
+FT                   /locus_tag=fliR
+FT   feature         309616..310416
+FT                   /label=fliY_1
+FT                   /locus_tag=fliY_1
+FT   feature         310417..310968
+FT                   /label=fliZ
+FT                   /locus_tag=fliZ
+FT   feature         310969..311721
+FT                   /label=fnr
+FT                   /locus_tag=fnr
+FT   feature         311722..312579
+FT                   /label=focA
+FT                   /locus_tag=focA
+FT   feature         312580..313848
+FT                   /label=folC
+FT                   /locus_tag=folC
+FT   feature         313849..314517
+FT                   /label=folE
+FT                   /locus_tag=folE
+FT   feature         314518..315219
+FT                   /label=fre
+FT                   /locus_tag=fre
+FT   feature         315220..315777
+FT                   /label=frr
+FT                   /locus_tag=frr
+FT   feature         315778..317463
+FT                   /label=fruA
+FT                   /locus_tag=fruA
+FT   feature         317464..318966
+FT                   /label=fruK
+FT                   /locus_tag=fruK
+FT   feature         318967..320187
+FT                   /label=fsr
+FT                   /locus_tag=fsr
+FT   feature         320188..321444
+FT                   /label=ftsA
+FT                   /locus_tag=ftsA
+FT   feature         321445..321756
+FT                   /label=ftsB
+FT                   /locus_tag=ftsB
+FT   feature         321757..322428
+FT                   /label=ftsE
+FT                   /locus_tag=ftsE
+FT   feature         322429..324372
+FT                   /label=ftsH
+FT                   /locus_tag=ftsH
+FT   feature         324373..326091
+FT                   /label=ftsI_1
+FT                   /locus_tag=ftsI_1
+FT   feature         326092..327858
+FT                   /label=ftsI_2
+FT                   /locus_tag=ftsI_2
+FT   feature         327859..328224
+FT                   /label=ftsL
+FT                   /locus_tag=ftsL
+FT   feature         328225..329067
+FT                   /label=ftsQ
+FT                   /locus_tag=ftsQ
+FT   feature         329068..330312
+FT                   /label=ftsW
+FT                   /locus_tag=ftsW
+FT   feature         330313..331464
+FT                   /label=ftsZ
+FT                   /locus_tag=ftsZ
+FT   feature         331465..331911
+FT                   /label=fur
+FT                   /locus_tag=fur
+FT   feature         331912..334026
+FT                   /label=fusA_2
+FT                   /locus_tag=fusA_2
+FT   feature         334027..335175
+FT                   /label=galK
+FT                   /locus_tag=galK
+FT   feature         335176..336573
+FT                   /label=galP
+FT                   /locus_tag=galP
+FT   feature         336574..337596
+FT                   /label=galS
+FT                   /locus_tag=galS
+FT   feature         337597..338505
+FT                   /label=galU
+FT                   /locus_tag=galU
+FT   feature         338506..339501
+FT                   /label=gapA
+FT                   /locus_tag=gapA
+FT   feature         339502..340392
+FT                   /label=garR
+FT                   /locus_tag=garR
+FT   feature         340393..342783
+FT                   /label=gcd
+FT                   /locus_tag=gcd
+FT   feature         342784..343701
+FT                   /label=gcvA_3
+FT                   /locus_tag=gcvA_3
+FT   feature         343702..344091
+FT                   /label=gcvH
+FT                   /locus_tag=gcvH
+FT   feature         344092..346965
+FT                   /label=gcvP
+FT                   /locus_tag=gcvP
+FT   feature         346966..347535
+FT                   /label=gcvR
+FT                   /locus_tag=gcvR
+FT   feature         347536..348630
+FT                   /label=gcvT
+FT                   /locus_tag=gcvT
+FT   feature         348631..350064
+FT                   /label=glgA
+FT                   /locus_tag=glgA
+FT   feature         350065..352341
+FT                   /label=glgB_2
+FT                   /locus_tag=glgB_2
+FT   feature         352342..353637
+FT                   /label=glgC
+FT                   /locus_tag=glgC
+FT   feature         353638..355611
+FT                   /label=glgX_2
+FT                   /locus_tag=glgX_2
+FT   feature         355612..356949
+FT                   /label=glmM
+FT                   /locus_tag=glmM
+FT   feature         356950..358779
+FT                   /label=glmS
+FT                   /locus_tag=glmS
+FT   feature         358780..360150
+FT                   /label=glmU
+FT                   /locus_tag=glmU
+FT   feature         360151..361560
+FT                   /label=glnA
+FT                   /locus_tag=glnA
+FT   feature         361561..361899
+FT                   /label=glnB
+FT                   /locus_tag=glnB
+FT   feature         361900..364623
+FT                   /label=glnD
+FT                   /locus_tag=glnD
+FT   feature         364624..367479
+FT                   /label=glnE
+FT                   /locus_tag=glnE
+FT   feature         367480..368223
+FT                   /label=glnH_2
+FT                   /locus_tag=glnH_2
+FT   feature         368224..368562
+FT                   /label=glnK
+FT                   /locus_tag=glnK
+FT   feature         368563..369612
+FT                   /label=glnL
+FT                   /locus_tag=glnL
+FT   feature         369613..370272
+FT                   /label=glnP_2
+FT                   /locus_tag=glnP_2
+FT   feature         370273..370998
+FT                   /label=glnQ_5
+FT                   /locus_tag=glnQ_5
+FT   feature         370999..372666
+FT                   /label=glnS
+FT                   /locus_tag=glnS
+FT   feature         372667..373074
+FT                   /label=gloA
+FT                   /locus_tag=gloA
+FT   feature         373075..373722
+FT                   /label=gloC
+FT                   /locus_tag=gloC
+FT   feature         373723..375231
+FT                   /label=glpD
+FT                   /locus_tag=glpD
+FT   feature         375232..375564
+FT                   /label=glpE
+FT                   /locus_tag=glpE
+FT   feature         375565..376410
+FT                   /label=glpF
+FT                   /locus_tag=glpF
+FT   feature         376411..377241
+FT                   /label=glpG
+FT                   /locus_tag=glpG
+FT   feature         377242..378750
+FT                   /label=glpK
+FT                   /locus_tag=glpK
+FT   feature         378751..379509
+FT                   /label=glpR_4
+FT                   /locus_tag=glpR_4
+FT   feature         379510..380793
+FT                   /label=gltA
+FT                   /locus_tag=gltA
+FT   feature         380794..385254
+FT                   /label=gltB
+FT                   /locus_tag=gltB
+FT   feature         385255..386145
+FT                   /label=gltC_5
+FT                   /locus_tag=gltC_5
+FT   feature         386146..387564
+FT                   /label=gltD
+FT                   /locus_tag=gltD
+FT   feature         387565..388470
+FT                   /label=gltI
+FT                   /locus_tag=gltI
+FT   feature         388471..389211
+FT                   /label=gltJ_2
+FT                   /locus_tag=gltJ_2
+FT   feature         389212..389886
+FT                   /label=gltK
+FT                   /locus_tag=gltK
+FT   feature         389887..391200
+FT                   /label=gltP
+FT                   /locus_tag=gltP
+FT   feature         391201..392403
+FT                   /label=gltS
+FT                   /locus_tag=gltS
+FT   feature         392404..393819
+FT                   /label=gltX
+FT                   /locus_tag=gltX
+FT   feature         393820..394551
+FT                   /label=glvR
+FT                   /locus_tag=glvR
+FT   feature         394552..395805
+FT                   /label=glyA
+FT                   /locus_tag=glyA
+FT   feature         395806..396717
+FT                   /label=glyQ
+FT                   /locus_tag=glyQ
+FT   feature         396718..398787
+FT                   /label=glyS
+FT                   /locus_tag=glyS
+FT   feature         398788..399909
+FT                   /label=gmd
+FT                   /locus_tag=gmd
+FT   feature         399910..400488
+FT                   /label=gmhA
+FT                   /locus_tag=gmhA
+FT   feature         400489..401055
+FT                   /label=gmhB
+FT                   /locus_tag=gmhB
+FT   feature         401056..401679
+FT                   /label=gmk
+FT                   /locus_tag=gmk
+FT   feature         401680..402162
+FT                   /label=gmm
+FT                   /locus_tag=gmm
+FT   feature         402163..403545
+FT                   /label=gmuD_2
+FT                   /locus_tag=gmuD_2
+FT   feature         403546..404862
+FT                   /label=gntT
+FT                   /locus_tag=gntT
+FT   feature         404863..405615
+FT                   /label=gpmA
+FT                   /locus_tag=gpmA
+FT   feature         405616..407160
+FT                   /label=gpmI
+FT                   /locus_tag=gpmI
+FT   feature         407161..408180
+FT                   /label=gpsA
+FT                   /locus_tag=gpsA
+FT   feature         408181..408639
+FT                   /label=gpt
+FT                   /locus_tag=gpt
+FT   feature         408640..409023
+FT                   /label=grcA
+FT                   /locus_tag=grcA
+FT   feature         409024..409500
+FT                   /label=greA
+FT                   /locus_tag=greA
+FT   feature         409501..409974
+FT                   /label=greB
+FT                   /locus_tag=greB
+FT   feature         409975..411618
+FT                   /label=groL
+FT                   /locus_tag=groL
+FT   feature         411619..411912
+FT                   /label=groS
+FT                   /locus_tag=groS
+FT   misc_feature    411913..412476
+FT                   /label=group_10183
+FT                   /locus_tag=group_10183
+FT   misc_feature    412477..412812
+FT                   /label=group_10223
+FT                   /locus_tag=group_10223
+FT   misc_feature    412813..414747
+FT                   /label=group_10273
+FT                   /locus_tag=group_10273
+FT   misc_feature    414748..415611
+FT                   /label=group_1032
+FT                   /locus_tag=group_1032
+FT   misc_feature    415612..418026
+FT                   /label=group_10467
+FT                   /locus_tag=group_10467
+FT   misc_feature    418027..418746
+FT                   /label=group_10508
+FT                   /locus_tag=group_10508
+FT   misc_feature    418747..419238
+FT                   /label=group_1055
+FT                   /locus_tag=group_1055
+FT   misc_feature    419239..419880
+FT                   /label=group_10552
+FT                   /locus_tag=group_10552
+FT   misc_feature    419881..421170
+FT                   /label=group_106
+FT                   /locus_tag=group_106
+FT   misc_feature    421171..421377
+FT                   /label=group_10602
+FT                   /locus_tag=group_10602
+FT   misc_feature    421378..421677
+FT                   /label=group_10605
+FT                   /locus_tag=group_10605
+FT   misc_feature    421678..422520
+FT                   /label=group_10666
+FT                   /locus_tag=group_10666
+FT   misc_feature    422521..423297
+FT                   /label=group_10696
+FT                   /locus_tag=group_10696
+FT   misc_feature    423298..423777
+FT                   /label=group_10759
+FT                   /locus_tag=group_10759
+FT   misc_feature    423778..424200
+FT                   /label=group_10777
+FT                   /locus_tag=group_10777
+FT   misc_feature    424201..424491
+FT                   /label=group_10791
+FT                   /locus_tag=group_10791
+FT   misc_feature    424492..425052
+FT                   /label=group_10818
+FT                   /locus_tag=group_10818
+FT   misc_feature    425053..426585
+FT                   /label=group_10833
+FT                   /locus_tag=group_10833
+FT   misc_feature    426586..426786
+FT                   /label=group_10864
+FT                   /locus_tag=group_10864
+FT   misc_feature    426787..428064
+FT                   /label=group_10869
+FT                   /locus_tag=group_10869
+FT   misc_feature    428065..428559
+FT                   /label=group_1088
+FT                   /locus_tag=group_1088
+FT   misc_feature    428560..429138
+FT                   /label=group_10894
+FT                   /locus_tag=group_10894
+FT   misc_feature    429139..430971
+FT                   /label=group_1090
+FT                   /locus_tag=group_1090
+FT   misc_feature    430972..432111
+FT                   /label=group_10948
+FT                   /locus_tag=group_10948
+FT   misc_feature    432112..432708
+FT                   /label=group_11020
+FT                   /locus_tag=group_11020
+FT   misc_feature    432709..433098
+FT                   /label=group_11067
+FT                   /locus_tag=group_11067
+FT   misc_feature    433099..434145
+FT                   /label=group_1124
+FT                   /locus_tag=group_1124
+FT   misc_feature    434146..435330
+FT                   /label=group_1152
+FT                   /locus_tag=group_1152
+FT   misc_feature    435331..435726
+FT                   /label=group_1169
+FT                   /locus_tag=group_1169
+FT   misc_feature    435727..436710
+FT                   /label=group_1195
+FT                   /locus_tag=group_1195
+FT   misc_feature    436711..437580
+FT                   /label=group_1337
+FT                   /locus_tag=group_1337
+FT   misc_feature    437581..438132
+FT                   /label=group_1369
+FT                   /locus_tag=group_1369
+FT   misc_feature    438133..439026
+FT                   /label=group_1373
+FT                   /locus_tag=group_1373
+FT   misc_feature    439027..440391
+FT                   /label=group_1398
+FT                   /locus_tag=group_1398
+FT   misc_feature    440392..440838
+FT                   /label=group_14
+FT                   /locus_tag=group_14
+FT   misc_feature    440839..442083
+FT                   /label=group_1419
+FT                   /locus_tag=group_1419
+FT   misc_feature    442084..442824
+FT                   /label=group_1424
+FT                   /locus_tag=group_1424
+FT   misc_feature    442825..443211
+FT                   /label=group_1481
+FT                   /locus_tag=group_1481
+FT   misc_feature    443212..443835
+FT                   /label=group_1515
+FT                   /locus_tag=group_1515
+FT   misc_feature    443836..445179
+FT                   /label=group_1631
+FT                   /locus_tag=group_1631
+FT   misc_feature    445180..445476
+FT                   /label=group_1666
+FT                   /locus_tag=group_1666
+FT   misc_feature    445477..446625
+FT                   /label=group_1690
+FT                   /locus_tag=group_1690
+FT   misc_feature    446626..446901
+FT                   /label=group_1704
+FT                   /locus_tag=group_1704
+FT   misc_feature    446902..447141
+FT                   /label=group_1709
+FT                   /locus_tag=group_1709
+FT   misc_feature    447142..447732
+FT                   /label=group_1737
+FT                   /locus_tag=group_1737
+FT   misc_feature    447733..448113
+FT                   /label=group_1754
+FT                   /locus_tag=group_1754
+FT   misc_feature    448114..449331
+FT                   /label=group_1780
+FT                   /locus_tag=group_1780
+FT   misc_feature    449332..450555
+FT                   /label=group_1782
+FT                   /locus_tag=group_1782
+FT   misc_feature    450556..451275
+FT                   /label=group_1786
+FT                   /locus_tag=group_1786
+FT   misc_feature    451276..451599
+FT                   /label=group_18
+FT                   /locus_tag=group_18
+FT   misc_feature    451600..452181
+FT                   /label=group_1805
+FT                   /locus_tag=group_1805
+FT   misc_feature    452182..455949
+FT                   /label=group_208
+FT                   /locus_tag=group_208
+FT   misc_feature    455950..456597
+FT                   /label=group_2105
+FT                   /locus_tag=group_2105
+FT   misc_feature    456598..456993
+FT                   /label=group_2181
+FT                   /locus_tag=group_2181
+FT   misc_feature    456994..457653
+FT                   /label=group_2207
+FT                   /locus_tag=group_2207
+FT   misc_feature    457654..457980
+FT                   /label=group_2238
+FT                   /locus_tag=group_2238
+FT   misc_feature    457981..458805
+FT                   /label=group_233
+FT                   /locus_tag=group_233
+FT   misc_feature    458806..459276
+FT                   /label=group_2424
+FT                   /locus_tag=group_2424
+FT   misc_feature    459277..461364
+FT                   /label=group_2576
+FT                   /locus_tag=group_2576
+FT   misc_feature    461365..461940
+FT                   /label=group_2592
+FT                   /locus_tag=group_2592
+FT   misc_feature    461941..462294
+FT                   /label=group_2595
+FT                   /locus_tag=group_2595
+FT   misc_feature    462295..462492
+FT                   /label=group_2607
+FT                   /locus_tag=group_2607
+FT   misc_feature    462493..463830
+FT                   /label=group_2628
+FT                   /locus_tag=group_2628
+FT   misc_feature    463831..464193
+FT                   /label=group_2636
+FT                   /locus_tag=group_2636
+FT   misc_feature    464194..464445
+FT                   /label=group_2705
+FT                   /locus_tag=group_2705
+FT   misc_feature    464446..464901
+FT                   /label=group_2751
+FT                   /locus_tag=group_2751
+FT   misc_feature    464902..465129
+FT                   /label=group_2777
+FT                   /locus_tag=group_2777
+FT   misc_feature    465130..466008
+FT                   /label=group_2823
+FT                   /locus_tag=group_2823
+FT   misc_feature    466009..467016
+FT                   /label=group_2825
+FT                   /locus_tag=group_2825
+FT   misc_feature    467017..468519
+FT                   /label=group_2851
+FT                   /locus_tag=group_2851
+FT   misc_feature    468520..468609
+FT                   /label=group_2945
+FT                   /locus_tag=group_2945
+FT   misc_feature    468610..469062
+FT                   /label=group_2956
+FT                   /locus_tag=group_2956
+FT   misc_feature    469063..469278
+FT                   /label=group_2994
+FT                   /locus_tag=group_2994
+FT   misc_feature    469279..469971
+FT                   /label=group_3039
+FT                   /locus_tag=group_3039
+FT   misc_feature    469972..470748
+FT                   /label=group_3071
+FT                   /locus_tag=group_3071
+FT   misc_feature    470749..470949
+FT                   /label=group_3144
+FT                   /locus_tag=group_3144
+FT   misc_feature    470950..471312
+FT                   /label=group_3176
+FT                   /locus_tag=group_3176
+FT   misc_feature    471313..471651
+FT                   /label=group_3178
+FT                   /locus_tag=group_3178
+FT   misc_feature    471652..472071
+FT                   /label=group_3306
+FT                   /locus_tag=group_3306
+FT   misc_feature    472072..473310
+FT                   /label=group_3349
+FT                   /locus_tag=group_3349
+FT   misc_feature    473311..473553
+FT                   /label=group_3371
+FT                   /locus_tag=group_3371
+FT   misc_feature    473554..474522
+FT                   /label=group_3385
+FT                   /locus_tag=group_3385
+FT   misc_feature    474523..475332
+FT                   /label=group_3443
+FT                   /locus_tag=group_3443
+FT   misc_feature    475333..476574
+FT                   /label=group_3456
+FT                   /locus_tag=group_3456
+FT   misc_feature    476575..478158
+FT                   /label=group_3522
+FT                   /locus_tag=group_3522
+FT   misc_feature    478159..479379
+FT                   /label=group_3524
+FT                   /locus_tag=group_3524
+FT   misc_feature    479380..480204
+FT                   /label=group_3531
+FT                   /locus_tag=group_3531
+FT   misc_feature    480205..480486
+FT                   /label=group_3539
+FT                   /locus_tag=group_3539
+FT   misc_feature    480487..480681
+FT                   /label=group_358
+FT                   /locus_tag=group_358
+FT   misc_feature    480682..481506
+FT                   /label=group_423
+FT                   /locus_tag=group_423
+FT   misc_feature    481507..482367
+FT                   /label=group_425
+FT                   /locus_tag=group_425
+FT   misc_feature    482368..483108
+FT                   /label=group_637
+FT                   /locus_tag=group_637
+FT   misc_feature    483109..483675
+FT                   /label=group_643
+FT                   /locus_tag=group_643
+FT   misc_feature    483676..483972
+FT                   /label=group_644
+FT                   /locus_tag=group_644
+FT   misc_feature    483973..484836
+FT                   /label=group_650
+FT                   /locus_tag=group_650
+FT   misc_feature    484837..485322
+FT                   /label=group_704
+FT                   /locus_tag=group_704
+FT   misc_feature    485323..486726
+FT                   /label=group_746
+FT                   /locus_tag=group_746
+FT   misc_feature    486727..487485
+FT                   /label=group_749
+FT                   /locus_tag=group_749
+FT   misc_feature    487486..487728
+FT                   /label=group_817
+FT                   /locus_tag=group_817
+FT   misc_feature    487729..488199
+FT                   /label=group_824
+FT                   /locus_tag=group_824
+FT   misc_feature    488200..488952
+FT                   /label=group_828
+FT                   /locus_tag=group_828
+FT   misc_feature    488953..489537
+FT                   /label=group_85
+FT                   /locus_tag=group_85
+FT   misc_feature    489538..491097
+FT                   /label=group_869
+FT                   /locus_tag=group_869
+FT   misc_feature    491098..492378
+FT                   /label=group_882
+FT                   /locus_tag=group_882
+FT   misc_feature    492379..492870
+FT                   /label=group_939
+FT                   /locus_tag=group_939
+FT   misc_feature    492871..493422
+FT                   /label=group_968
+FT                   /locus_tag=group_968
+FT   misc_feature    493423..493743
+FT                   /label=group_970
+FT                   /locus_tag=group_970
+FT   misc_feature    493744..494454
+FT                   /label=group_984
+FT                   /locus_tag=group_984
+FT   misc_feature    494455..494922
+FT                   /label=group_995
+FT                   /locus_tag=group_995
+FT   misc_feature    494923..495630
+FT                   /label=group_999
+FT                   /locus_tag=group_999
+FT   feature         495631..495882
+FT                   /label=grxC
+FT                   /locus_tag=grxC
+FT   feature         495883..496230
+FT                   /label=grxD
+FT                   /locus_tag=grxD
+FT   feature         496231..497775
+FT                   /label=gshA
+FT                   /locus_tag=gshA
+FT   feature         497776..498717
+FT                   /label=gsiC_3
+FT                   /locus_tag=gsiC_3
+FT   feature         498718..499629
+FT                   /label=gsiD_1
+FT                   /locus_tag=gsiD_1
+FT   feature         499630..500505
+FT                   /label=gsiD_2
+FT                   /locus_tag=gsiD_2
+FT   feature         500506..501852
+FT                   /label=gsk
+FT                   /locus_tag=gsk
+FT   feature         501853..503430
+FT                   /label=guaA
+FT                   /locus_tag=guaA
+FT   feature         503431..504897
+FT                   /label=guaB
+FT                   /locus_tag=guaB
+FT   feature         504898..507534
+FT                   /label=gyrA
+FT                   /locus_tag=gyrA
+FT   feature         507535..509946
+FT                   /label=gyrB
+FT                   /locus_tag=gyrB
+FT   feature         509947..510861
+FT                   /label=hdfR_2
+FT                   /locus_tag=hdfR_2
+FT   feature         510862..511683
+FT                   /label=hdfR_3
+FT                   /locus_tag=hdfR_3
+FT   feature         511684..512940
+FT                   /label=hemA
+FT                   /locus_tag=hemA
+FT   feature         512941..513915
+FT                   /label=hemB
+FT                   /locus_tag=hemB
+FT   feature         513916..514878
+FT                   /label=hemC
+FT                   /locus_tag=hemC
+FT   feature         514879..515841
+FT                   /label=hemH
+FT                   /locus_tag=hemH
+FT   feature         515842..517215
+FT                   /label=hemN
+FT                   /locus_tag=hemN
+FT   feature         517216..518358
+FT                   /label=hemW
+FT                   /locus_tag=hemW
+FT   feature         518359..519555
+FT                   /label=hemX
+FT                   /locus_tag=hemX
+FT   feature         519556..520758
+FT                   /label=hemY
+FT                   /locus_tag=hemY
+FT   feature         520759..521646
+FT                   /label=hexR
+FT                   /locus_tag=hexR
+FT   feature         521647..522276
+FT                   /label=hflD
+FT                   /locus_tag=hflD
+FT   feature         522277..523539
+FT                   /label=hflK
+FT                   /locus_tag=hflK
+FT   feature         523540..524820
+FT                   /label=hflX
+FT                   /locus_tag=hflX
+FT   feature         524821..525132
+FT                   /label=hfq
+FT                   /locus_tag=hfq
+FT   feature         525133..525492
+FT                   /label=hinT
+FT                   /locus_tag=hinT
+FT   feature         525493..526560
+FT                   /label=hisB
+FT                   /locus_tag=hisB
+FT   feature         526561..527865
+FT                   /label=hisD
+FT                   /locus_tag=hisD
+FT   feature         527866..528765
+FT                   /label=hisG
+FT                   /locus_tag=hisG
+FT   feature         528766..529548
+FT                   /label=hisJ
+FT                   /locus_tag=hisJ
+FT   feature         529549..530265
+FT                   /label=hisM
+FT                   /locus_tag=hisM
+FT   feature         530266..530952
+FT                   /label=hisQ
+FT                   /locus_tag=hisQ
+FT   feature         530953..532227
+FT                   /label=hisS
+FT                   /locus_tag=hisS
+FT   feature         532228..533658
+FT                   /label=hldE
+FT                   /locus_tag=hldE
+FT   feature         533659..534072
+FT                   /label=hns
+FT                   /locus_tag=hns
+FT   feature         534073..535107
+FT                   /label=holA
+FT                   /locus_tag=holA
+FT   feature         535108..535395
+FT                   /label=hpf
+FT                   /locus_tag=hpf
+FT   feature         535396..535944
+FT                   /label=hpt
+FT                   /locus_tag=hpt
+FT   feature         535945..537795
+FT                   /label=hscA
+FT                   /locus_tag=hscA
+FT   feature         537796..538311
+FT                   /label=hscB
+FT                   /locus_tag=hscB
+FT   feature         538312..539190
+FT                   /label=hslO
+FT                   /locus_tag=hslO
+FT   feature         539191..539592
+FT                   /label=hslR
+FT                   /locus_tag=hslR
+FT   feature         539593..540927
+FT                   /label=hslU
+FT                   /locus_tag=hslU
+FT   feature         540928..541458
+FT                   /label=hslV
+FT                   /locus_tag=hslV
+FT   feature         541459..543333
+FT                   /label=htpG
+FT                   /locus_tag=htpG
+FT   feature         543334..544215
+FT                   /label=htpX
+FT                   /locus_tag=htpX
+FT   feature         544216..544488
+FT                   /label=hupA
+FT                   /locus_tag=hupA
+FT   feature         544489..544761
+FT                   /label=hupB
+FT                   /locus_tag=hupB
+FT   feature         544762..545016
+FT                   /label=ibaG
+FT                   /locus_tag=ibaG
+FT   feature         545017..545445
+FT                   /label=ibpB
+FT                   /locus_tag=ibpB
+FT   feature         545446..546696
+FT                   /label=icd
+FT                   /locus_tag=icd
+FT   feature         546697..546996
+FT                   /label=ihfA
+FT                   /locus_tag=ihfA
+FT   feature         546997..547284
+FT                   /label=ihfB
+FT                   /locus_tag=ihfB
+FT   feature         547285..550101
+FT                   /label=ileS
+FT                   /locus_tag=ileS
+FT   feature         550102..551790
+FT                   /label=ilvB_2
+FT                   /locus_tag=ilvB_2
+FT   feature         551791..553266
+FT                   /label=ilvC
+FT                   /locus_tag=ilvC
+FT   feature         553267..554196
+FT                   /label=ilvE
+FT                   /locus_tag=ilvE
+FT   feature         554197..555843
+FT                   /label=ilvG
+FT                   /locus_tag=ilvG
+FT   feature         555844..556335
+FT                   /label=ilvH
+FT                   /locus_tag=ilvH
+FT   feature         556336..558060
+FT                   /label=ilvI
+FT                   /locus_tag=ilvI
+FT   feature         558061..558324
+FT                   /label=ilvM
+FT                   /locus_tag=ilvM
+FT   feature         558325..558612
+FT                   /label=ilvN
+FT                   /locus_tag=ilvN
+FT   feature         558613..558831
+FT                   /label=infA
+FT                   /locus_tag=infA
+FT   feature         558832..561519
+FT                   /label=infB
+FT                   /locus_tag=infB
+FT   feature         561520..561861
+FT                   /label=infC
+FT                   /locus_tag=infC
+FT   feature         561862..562860
+FT                   /label=iolU
+FT                   /locus_tag=iolU
+FT   feature         562861..563184
+FT                   /label=iscA
+FT                   /locus_tag=iscA
+FT   feature         563185..563676
+FT                   /label=iscR
+FT                   /locus_tag=iscR
+FT   feature         563677..564891
+FT                   /label=iscS
+FT                   /locus_tag=iscS
+FT   feature         564892..565278
+FT                   /label=iscU
+FT                   /locus_tag=iscU
+FT   feature         565279..565479
+FT                   /label=iscX
+FT                   /locus_tag=iscX
+FT   feature         565480..566379
+FT                   /label=ispA
+FT                   /locus_tag=ispA
+FT   feature         566380..567351
+FT                   /label=ispB
+FT                   /locus_tag=ispB
+FT   feature         567352..568062
+FT                   /label=ispD
+FT                   /locus_tag=ispD
+FT   feature         568063..568542
+FT                   /label=ispF
+FT                   /locus_tag=ispF
+FT   feature         568543..569661
+FT                   /label=ispG
+FT                   /locus_tag=ispG
+FT   feature         569662..570420
+FT                   /label=ispU
+FT                   /locus_tag=ispU
+FT   feature         570421..572670
+FT                   /label=katE
+FT                   /locus_tag=katE
+FT   feature         572671..574851
+FT                   /label=katG
+FT                   /locus_tag=katG
+FT   feature         574852..575643
+FT                   /label=kdgR_1
+FT                   /locus_tag=kdgR_1
+FT   feature         575644..577692
+FT                   /label=kdpB
+FT                   /locus_tag=kdpB
+FT   feature         577693..578268
+FT                   /label=kdpC
+FT                   /locus_tag=kdpC
+FT   feature         578269..580956
+FT                   /label=kdpD
+FT                   /locus_tag=kdpD
+FT   feature         580957..581811
+FT                   /label=kdsA
+FT                   /locus_tag=kdsA
+FT   feature         581812..582798
+FT                   /label=kdsD
+FT                   /locus_tag=kdsD
+FT   feature         582799..584604
+FT                   /label=kefC_2
+FT                   /locus_tag=kefC_2
+FT   feature         584605..585135
+FT                   /label=kefF
+FT                   /locus_tag=kefF
+FT   feature         585136..586431
+FT                   /label=kgtP_2
+FT                   /locus_tag=kgtP_2
+FT   feature         586432..588300
+FT                   /label=kup_2
+FT                   /locus_tag=kup_2
+FT   feature         588301..589239
+FT                   /label=lacC
+FT                   /locus_tag=lacC
+FT   feature         589240..590085
+FT                   /label=lacG
+FT                   /locus_tag=lacG
+FT   feature         590086..591465
+FT                   /label=lamB_2
+FT                   /locus_tag=lamB_2
+FT   feature         591466..592635
+FT                   /label=lapB
+FT                   /locus_tag=lapB
+FT   feature         592636..594768
+FT                   /label=ldcC
+FT                   /locus_tag=ldcC
+FT   feature         594769..596568
+FT                   /label=lepA
+FT                   /locus_tag=lepA
+FT   feature         596569..597543
+FT                   /label=lepB
+FT                   /locus_tag=lepB
+FT   feature         597544..599115
+FT                   /label=leuA_1
+FT                   /locus_tag=leuA_1
+FT   feature         599116..600207
+FT                   /label=leuB
+FT                   /locus_tag=leuB
+FT   feature         600208..602790
+FT                   /label=leuS
+FT                   /locus_tag=leuS
+FT   feature         602791..603399
+FT                   /label=lexA_2
+FT                   /locus_tag=lexA_2
+FT   feature         603400..604722
+FT                   /label=licC_1
+FT                   /locus_tag=licC_1
+FT   feature         604723..606048
+FT                   /label=licC_4
+FT                   /locus_tag=licC_4
+FT   feature         606049..608064
+FT                   /label=ligA
+FT                   /locus_tag=ligA
+FT   feature         608065..608778
+FT                   /label=livF_5
+FT                   /locus_tag=livF_5
+FT   feature         608779..609705
+FT                   /label=livH_3
+FT                   /locus_tag=livH_3
+FT   feature         609706..610800
+FT                   /label=livJ_2
+FT                   /locus_tag=livJ_2
+FT   feature         610801..611910
+FT                   /label=livK
+FT                   /locus_tag=livK
+FT   feature         611911..613098
+FT                   /label=lldD
+FT                   /locus_tag=lldD
+FT   feature         613099..614754
+FT                   /label=lldP
+FT                   /locus_tag=lldP
+FT   feature         614755..615531
+FT                   /label=lldR_1
+FT                   /locus_tag=lldR_1
+FT   feature         615532..616305
+FT                   /label=lldR_2
+FT                   /locus_tag=lldR_2
+FT   feature         616306..617844
+FT                   /label=lnt
+FT                   /locus_tag=lnt
+FT   feature         617845..618603
+FT                   /label=loiP
+FT                   /locus_tag=loiP
+FT   feature         618604..619218
+FT                   /label=lolA_1
+FT                   /locus_tag=lolA_1
+FT   feature         619219..619830
+FT                   /label=lolB
+FT                   /locus_tag=lolB
+FT   feature         619831..621591
+FT                   /label=lon_1
+FT                   /locus_tag=lon_1
+FT   feature         621592..623946
+FT                   /label=lon_2
+FT                   /locus_tag=lon_2
+FT   feature         623947..625371
+FT                   /label=lpdA
+FT                   /locus_tag=lpdA
+FT   feature         625372..627603
+FT                   /label=lpoA
+FT                   /locus_tag=lpoA
+FT   feature         627604..627840
+FT                   /label=lpp1
+FT                   /locus_tag=lpp1
+FT   feature         627841..628395
+FT                   /label=lptA
+FT                   /locus_tag=lptA
+FT   feature         628396..629121
+FT                   /label=lptB_3
+FT                   /locus_tag=lptB_3
+FT   feature         629122..629889
+FT                   /label=lptB_4
+FT                   /locus_tag=lptB_4
+FT   feature         629890..630465
+FT                   /label=lptC
+FT                   /locus_tag=lptC
+FT   feature         630466..631254
+FT                   /label=lpxA
+FT                   /locus_tag=lpxA
+FT   feature         631255..632403
+FT                   /label=lpxB
+FT                   /locus_tag=lpxB
+FT   feature         632404..633321
+FT                   /label=lpxC
+FT                   /locus_tag=lpxC
+FT   feature         633322..634347
+FT                   /label=lpxD_2
+FT                   /locus_tag=lpxD_2
+FT   feature         634348..635319
+FT                   /label=lpxM
+FT                   /locus_tag=lpxM
+FT   feature         635320..635814
+FT                   /label=lrp_1
+FT                   /locus_tag=lrp_1
+FT   feature         635815..636330
+FT                   /label=luxS
+FT                   /locus_tag=luxS
+FT   feature         636331..637680
+FT                   /label=lysC
+FT                   /locus_tag=lysC
+FT   feature         637681..639198
+FT                   /label=lysS
+FT                   /locus_tag=lysS
+FT   feature         639199..640314
+FT                   /label=macA_1
+FT                   /locus_tag=macA_1
+FT   feature         640315..642255
+FT                   /label=macB
+FT                   /locus_tag=macB
+FT   feature         642256..643161
+FT                   /label=mak
+FT                   /locus_tag=mak
+FT   feature         643162..644352
+FT                   /label=malE
+FT                   /locus_tag=malE
+FT   feature         644353..645897
+FT                   /label=malF
+FT                   /locus_tag=malF
+FT   feature         645898..647007
+FT                   /label=malK_2
+FT                   /locus_tag=malK_2
+FT   feature         647008..649401
+FT                   /label=malP_1
+FT                   /locus_tag=malP_1
+FT   feature         649402..651849
+FT                   /label=malP_2
+FT                   /locus_tag=malP_2
+FT   feature         651850..653472
+FT                   /label=malP_3
+FT                   /locus_tag=malP_3
+FT   feature         653473..655554
+FT                   /label=malQ
+FT                   /locus_tag=malQ
+FT   feature         655555..658260
+FT                   /label=malT
+FT                   /locus_tag=malT
+FT   feature         658261..659697
+FT                   /label=manC1
+FT                   /locus_tag=manC1
+FT   feature         659698..660663
+FT                   /label=manX
+FT                   /locus_tag=manX
+FT   feature         660664..661464
+FT                   /label=manY
+FT                   /locus_tag=manY
+FT   feature         661465..662316
+FT                   /label=manZ_1
+FT                   /locus_tag=manZ_1
+FT   feature         662317..663111
+FT                   /label=map
+FT                   /locus_tag=map
+FT   feature         663112..663564
+FT                   /label=matP
+FT                   /locus_tag=matP
+FT   feature         663565..664356
+FT                   /label=mazG
+FT                   /locus_tag=mazG
+FT   feature         664357..665295
+FT                   /label=mdh
+FT                   /locus_tag=mdh
+FT   feature         665296..666897
+FT                   /label=mdoG
+FT                   /locus_tag=mdoG
+FT   feature         666898..669426
+FT                   /label=mdoH
+FT                   /locus_tag=mdoH
+FT   feature         669427..670788
+FT                   /label=mdtK
+FT                   /locus_tag=mdtK
+FT   feature         670789..671709
+FT                   /label=menA
+FT                   /locus_tag=menA
+FT   feature         671710..672534
+FT                   /label=mepA
+FT                   /locus_tag=mepA
+FT   feature         672535..673854
+FT                   /label=mepM
+FT                   /locus_tag=mepM
+FT   feature         673855..674784
+FT                   /label=metAS
+FT                   /locus_tag=metAS
+FT   feature         674785..675972
+FT                   /label=metC_2
+FT                   /locus_tag=metC_2
+FT   feature         675973..678234
+FT                   /label=metE
+FT                   /locus_tag=metE
+FT   feature         678235..679125
+FT                   /label=metF
+FT                   /locus_tag=metF
+FT   feature         679126..681159
+FT                   /label=metG
+FT                   /locus_tag=metG
+FT   feature         681160..681813
+FT                   /label=metI
+FT                   /locus_tag=metI
+FT   feature         681814..682131
+FT                   /label=metJ
+FT                   /locus_tag=metJ
+FT   feature         682132..683286
+FT                   /label=metK
+FT                   /locus_tag=metK
+FT   feature         683287..685719
+FT                   /label=metL
+FT                   /locus_tag=metL
+FT   feature         685720..686751
+FT                   /label=metN_2
+FT                   /locus_tag=metN_2
+FT   feature         686752..687567
+FT                   /label=metQ_2
+FT                   /locus_tag=metQ_2
+FT   feature         687568..688521
+FT                   /label=metR
+FT                   /locus_tag=metR
+FT   feature         688522..690042
+FT                   /label=mglA
+FT                   /locus_tag=mglA
+FT   feature         690043..691041
+FT                   /label=mglB
+FT                   /locus_tag=mglB
+FT   feature         691042..692052
+FT                   /label=mglC
+FT                   /locus_tag=mglC
+FT   feature         692053..693003
+FT                   /label=miaA
+FT                   /locus_tag=miaA
+FT   feature         693004..693816
+FT                   /label=minD
+FT                   /locus_tag=minD
+FT   feature         693817..694086
+FT                   /label=minE
+FT                   /locus_tag=minE
+FT   feature         694087..694536
+FT                   /label=mioC
+FT                   /locus_tag=mioC
+FT   feature         694537..695172
+FT                   /label=mlaC
+FT                   /locus_tag=mlaC
+FT   feature         695173..695721
+FT                   /label=mlaD
+FT                   /locus_tag=mlaD
+FT   feature         695722..696504
+FT                   /label=mlaE
+FT                   /locus_tag=mlaE
+FT   feature         696505..697317
+FT                   /label=mlaF
+FT                   /locus_tag=mlaF
+FT   feature         697318..697641
+FT                   /label=mliC
+FT                   /locus_tag=mliC
+FT   feature         697642..698739
+FT                   /label=mltA
+FT                   /locus_tag=mltA
+FT   feature         698740..699819
+FT                   /label=mltC
+FT                   /locus_tag=mltC
+FT   feature         699820..701184
+FT                   /label=mltD
+FT                   /locus_tag=mltD
+FT   feature         701185..702207
+FT                   /label=mltG
+FT                   /locus_tag=mltG
+FT   feature         702208..702954
+FT                   /label=mngR_2
+FT                   /locus_tag=mngR_2
+FT   feature         702955..704124
+FT                   /label=mnmA
+FT                   /locus_tag=mnmA
+FT   feature         704125..705489
+FT                   /label=mnmE
+FT                   /locus_tag=mnmE
+FT   feature         705490..707379
+FT                   /label=mnmG
+FT                   /locus_tag=mnmG
+FT   feature         707380..707946
+FT                   /label=mntP
+FT                   /locus_tag=mntP
+FT   feature         707947..708420
+FT                   /label=mntR
+FT                   /locus_tag=mntR
+FT   feature         708421..708906
+FT                   /label=moaC
+FT                   /locus_tag=moaC
+FT   feature         708907..709494
+FT                   /label=mog
+FT                   /locus_tag=mog
+FT   feature         709495..710382
+FT                   /label=motA
+FT                   /locus_tag=motA
+FT   feature         710383..711312
+FT                   /label=motB
+FT                   /locus_tag=motB
+FT   feature         711313..712692
+FT                   /label=mpl
+FT                   /locus_tag=mpl
+FT   feature         712693..713223
+FT                   /label=mprA
+FT                   /locus_tag=mprA
+FT   feature         713224..714306
+FT                   /label=mraY
+FT                   /locus_tag=mraY
+FT   feature         714307..714801
+FT                   /label=mraZ
+FT                   /locus_tag=mraZ
+FT   feature         714802..717354
+FT                   /label=mrcA
+FT                   /locus_tag=mrcA
+FT   feature         717355..719883
+FT                   /label=mrcB
+FT                   /locus_tag=mrcB
+FT   feature         719884..720927
+FT                   /label=mreB
+FT                   /locus_tag=mreB
+FT   feature         720928..721944
+FT                   /label=mreC
+FT                   /locus_tag=mreC
+FT   feature         721945..722433
+FT                   /label=mreD
+FT                   /locus_tag=mreD
+FT   feature         722434..724185
+FT                   /label=msbA
+FT                   /locus_tag=msbA
+FT   feature         724186..725040
+FT                   /label=mscS
+FT                   /locus_tag=mscS
+FT   feature         725041..725454
+FT                   /label=msrB
+FT                   /locus_tag=msrB
+FT   feature         725455..725952
+FT                   /label=msrC
+FT                   /locus_tag=msrC
+FT   feature         725953..726954
+FT                   /label=msrP
+FT                   /locus_tag=msrP
+FT   feature         726955..728862
+FT                   /label=mtlA
+FT                   /locus_tag=mtlA
+FT   feature         728863..730011
+FT                   /label=mtlD
+FT                   /locus_tag=mtlD
+FT   feature         730012..730602
+FT                   /label=mtlR
+FT                   /locus_tag=mtlR
+FT   feature         730603..731301
+FT                   /label=mtnN
+FT                   /locus_tag=mtnN
+FT   feature         731302..732546
+FT                   /label=mtr
+FT                   /locus_tag=mtr
+FT   feature         732547..733053
+FT                   /label=mug
+FT                   /locus_tag=mug
+FT   feature         733054..737505
+FT                   /label=mukB
+FT                   /locus_tag=mukB
+FT   feature         737506..738210
+FT                   /label=mukE
+FT                   /locus_tag=mukE
+FT   feature         738211..739533
+FT                   /label=mukF
+FT                   /locus_tag=mukF
+FT   feature         739534..740793
+FT                   /label=murA
+FT                   /locus_tag=murA
+FT   feature         740794..742269
+FT                   /label=murC
+FT                   /locus_tag=murC
+FT   feature         742270..743586
+FT                   /label=murD
+FT                   /locus_tag=murD
+FT   feature         743587..745074
+FT                   /label=murE
+FT                   /locus_tag=murE
+FT   feature         745075..746139
+FT                   /label=murG
+FT                   /locus_tag=murG
+FT   feature         746140..746991
+FT                   /label=murI
+FT                   /locus_tag=murI
+FT   feature         746992..747924
+FT                   /label=murR_1
+FT                   /locus_tag=murR_1
+FT   feature         747925..748734
+FT                   /label=mutM
+FT                   /locus_tag=mutM
+FT   feature         748735..749286
+FT                   /label=mutS2
+FT                   /locus_tag=mutS2
+FT   feature         749287..750345
+FT                   /label=mutY
+FT                   /locus_tag=mutY
+FT   feature         750346..751389
+FT                   /label=nadA
+FT                   /locus_tag=nadA
+FT   feature         751390..753009
+FT                   /label=nadB
+FT                   /locus_tag=nadB
+FT   feature         753010..753837
+FT                   /label=nadE
+FT                   /locus_tag=nadE
+FT   feature         753838..754716
+FT                   /label=nadK
+FT                   /locus_tag=nadK
+FT   feature         754717..755865
+FT                   /label=nagA
+FT                   /locus_tag=nagA
+FT   feature         755866..756666
+FT                   /label=nagB
+FT                   /locus_tag=nagB
+FT   feature         756667..757887
+FT                   /label=nagC
+FT                   /locus_tag=nagC
+FT   feature         757888..758640
+FT                   /label=nagD
+FT                   /locus_tag=nagD
+FT   feature         758641..762384
+FT                   /label=narG
+FT                   /locus_tag=narG
+FT   feature         762385..763920
+FT                   /label=narH
+FT                   /locus_tag=narH
+FT   feature         763921..764631
+FT                   /label=narJ
+FT                   /locus_tag=narJ
+FT   feature         764632..766029
+FT                   /label=narK
+FT                   /locus_tag=narK
+FT   feature         766030..766470
+FT                   /label=ndhC
+FT                   /locus_tag=ndhC
+FT   feature         766471..766902
+FT                   /label=ndk
+FT                   /locus_tag=ndk
+FT   feature         766903..768000
+FT                   /label=nemA
+FT                   /locus_tag=nemA
+FT   feature         768001..769191
+FT                   /label=nepI_3
+FT                   /locus_tag=nepI_3
+FT   feature         769192..769863
+FT                   /label=nfi
+FT                   /locus_tag=nfi
+FT   feature         769864..770721
+FT                   /label=nfo
+FT                   /locus_tag=nfo
+FT   feature         770722..771444
+FT                   /label=nfsA
+FT                   /locus_tag=nfsA
+FT   feature         771445..772020
+FT                   /label=nfuA
+FT                   /locus_tag=nfuA
+FT   feature         772021..772920
+FT                   /label=nhaR
+FT                   /locus_tag=nhaR
+FT   feature         772921..774045
+FT                   /label=nlpD_1
+FT                   /locus_tag=nlpD_1
+FT   feature         774046..774930
+FT                   /label=nlpI
+FT                   /locus_tag=nlpI
+FT   feature         774931..776166
+FT                   /label=nqrB
+FT                   /locus_tag=nqrB
+FT   feature         776167..776805
+FT                   /label=nqrD
+FT                   /locus_tag=nqrD
+FT   feature         776806..777402
+FT                   /label=nqrE
+FT                   /locus_tag=nqrE
+FT   feature         777403..778626
+FT                   /label=nqrF
+FT                   /locus_tag=nqrF
+FT   feature         778627..780960
+FT                   /label=nrdA
+FT                   /locus_tag=nrdA
+FT   feature         780961..782091
+FT                   /label=nrdB
+FT                   /locus_tag=nrdB
+FT   feature         782092..782541
+FT                   /label=nrdR
+FT                   /locus_tag=nrdR
+FT   feature         782542..782967
+FT                   /label=nsrR
+FT                   /locus_tag=nsrR
+FT   feature         782968..783603
+FT                   /label=nth
+FT                   /locus_tag=nth
+FT   feature         783604..785016
+FT                   /label=ntrC
+FT                   /locus_tag=ntrC
+FT   feature         785017..785460
+FT                   /label=nudB
+FT                   /locus_tag=nudB
+FT   feature         785461..786021
+FT                   /label=nudE
+FT                   /locus_tag=nudE
+FT   feature         786022..786654
+FT                   /label=nudF
+FT                   /locus_tag=nudF
+FT   feature         786655..787128
+FT                   /label=nudJ
+FT                   /locus_tag=nudJ
+FT   feature         787129..787803
+FT                   /label=nuoB
+FT                   /locus_tag=nuoB
+FT   feature         787804..789606
+FT                   /label=nuoC
+FT                   /locus_tag=nuoC
+FT   feature         789607..790107
+FT                   /label=nuoE
+FT                   /locus_tag=nuoE
+FT   feature         790108..791445
+FT                   /label=nuoF
+FT                   /locus_tag=nuoF
+FT   feature         791446..794172
+FT                   /label=nuoG
+FT                   /locus_tag=nuoG
+FT   feature         794173..795150
+FT                   /label=nuoH
+FT                   /locus_tag=nuoH
+FT   feature         795151..795693
+FT                   /label=nuoI
+FT                   /locus_tag=nuoI
+FT   feature         795694..796248
+FT                   /label=nuoJ
+FT                   /locus_tag=nuoJ
+FT   feature         796249..796551
+FT                   /label=nuoK
+FT                   /locus_tag=nuoK
+FT   feature         796552..798393
+FT                   /label=nuoL
+FT                   /locus_tag=nuoL
+FT   feature         798394..799923
+FT                   /label=nuoM
+FT                   /locus_tag=nuoM
+FT   feature         799924..801381
+FT                   /label=nuoN
+FT                   /locus_tag=nuoN
+FT   feature         801382..802566
+FT                   /label=nupC_1
+FT                   /locus_tag=nupC_1
+FT   feature         802567..803823
+FT                   /label=nupG
+FT                   /locus_tag=nupG
+FT   feature         803824..805326
+FT                   /label=nusA
+FT                   /locus_tag=nusA
+FT   feature         805327..805746
+FT                   /label=nusB
+FT                   /locus_tag=nusB
+FT   feature         805747..806292
+FT                   /label=nusG
+FT                   /locus_tag=nusG
+FT   feature         806293..807468
+FT                   /label=obgE
+FT                   /locus_tag=obgE
+FT   feature         807469..807984
+FT                   /label=ogt
+FT                   /locus_tag=ogt
+FT   feature         807985..809040
+FT                   /label=ompA_1
+FT                   /locus_tag=ompA_1
+FT   feature         809041..809760
+FT                   /label=ompR_2
+FT                   /locus_tag=ompR_2
+FT   feature         809761..810279
+FT                   /label=ompX
+FT                   /locus_tag=ompX
+FT   feature         810280..811911
+FT                   /label=oppA_2
+FT                   /locus_tag=oppA_2
+FT   feature         811912..812832
+FT                   /label=oppB
+FT                   /locus_tag=oppB
+FT   feature         812833..813741
+FT                   /label=oppC
+FT                   /locus_tag=oppC
+FT   feature         813742..814755
+FT                   /label=oppD_1
+FT                   /locus_tag=oppD_1
+FT   feature         814756..815100
+FT                   /label=osmE
+FT                   /locus_tag=osmE
+FT   feature         815101..815676
+FT                   /label=osmY_3
+FT                   /locus_tag=osmY_3
+FT   feature         815677..816594
+FT                   /label=oxyR_2
+FT                   /locus_tag=oxyR_2
+FT   feature         816595..817116
+FT                   /label=pal_1
+FT                   /locus_tag=pal_1
+FT   feature         817117..818568
+FT                   /label=panF
+FT                   /locus_tag=panF
+FT   feature         818569..818961
+FT                   /label=panM
+FT                   /locus_tag=panM
+FT   feature         818962..820854
+FT                   /label=parE
+FT                   /locus_tag=parE
+FT   feature         820855..822234
+FT                   /label=patA
+FT                   /locus_tag=patA
+FT   feature         822235..824898
+FT                   /label=pat_1
+FT                   /locus_tag=pat_1
+FT   feature         824899..826518
+FT                   /label=pckA
+FT                   /locus_tag=pckA
+FT   feature         826519..827145
+FT                   /label=pcm
+FT                   /locus_tag=pcm
+FT   feature         827146..827910
+FT                   /label=pdhR
+FT                   /locus_tag=pdhR
+FT   feature         827911..828897
+FT                   /label=pdxA
+FT                   /locus_tag=pdxA
+FT   feature         828898..829569
+FT                   /label=pdxH
+FT                   /locus_tag=pdxH
+FT   feature         829570..830301
+FT                   /label=pdxJ
+FT                   /locus_tag=pdxJ
+FT   feature         830302..831813
+FT                   /label=pepA_1
+FT                   /locus_tag=pepA_1
+FT   feature         831814..833100
+FT                   /label=pepB
+FT                   /locus_tag=pepB
+FT   feature         833101..834558
+FT                   /label=pepD
+FT                   /locus_tag=pepD
+FT   feature         834559..837171
+FT                   /label=pepN
+FT                   /locus_tag=pepN
+FT   feature         837172..838491
+FT                   /label=pepP
+FT                   /locus_tag=pepP
+FT   feature         838492..839823
+FT                   /label=pepQ
+FT                   /locus_tag=pepQ
+FT   feature         839824..840786
+FT                   /label=pfkA
+FT                   /locus_tag=pfkA
+FT   feature         840787..841527
+FT                   /label=pflA
+FT                   /locus_tag=pflA
+FT   feature         841528..843810
+FT                   /label=pflB
+FT                   /locus_tag=pflB
+FT   feature         843811..845460
+FT                   /label=pgi
+FT                   /locus_tag=pgi
+FT   feature         845461..846624
+FT                   /label=pgk
+FT                   /locus_tag=pgk
+FT   feature         846625..848265
+FT                   /label=pgm
+FT                   /locus_tag=pgm
+FT   feature         848266..848814
+FT                   /label=pgsA
+FT                   /locus_tag=pgsA
+FT   feature         848815..849975
+FT                   /label=pheA
+FT                   /locus_tag=pheA
+FT   feature         849976..850959
+FT                   /label=pheS
+FT                   /locus_tag=pheS
+FT   feature         850960..853347
+FT                   /label=pheT
+FT                   /locus_tag=pheT
+FT   feature         853348..854037
+FT                   /label=phoB
+FT                   /locus_tag=phoB
+FT   feature         854038..855102
+FT                   /label=phoH
+FT                   /locus_tag=phoH
+FT   feature         855103..856398
+FT                   /label=phoR
+FT                   /locus_tag=phoR
+FT   feature         856399..857124
+FT                   /label=phoU
+FT                   /locus_tag=phoU
+FT   feature         857125..858624
+FT                   /label=pitA
+FT                   /locus_tag=pitA
+FT   feature         858625..859629
+FT                   /label=plsX
+FT                   /locus_tag=plsX
+FT   feature         859630..860250
+FT                   /label=plsY
+FT                   /locus_tag=plsY
+FT   feature         860251..861603
+FT                   /label=pmbA
+FT                   /locus_tag=pmbA
+FT   feature         861604..862806
+FT                   /label=pncB
+FT                   /locus_tag=pncB
+FT   feature         862807..863304
+FT                   /label=pncC_3
+FT                   /locus_tag=pncC_3
+FT   feature         863305..865443
+FT                   /label=pnp
+FT                   /locus_tag=pnp
+FT   feature         865444..866973
+FT                   /label=pntA
+FT                   /locus_tag=pntA
+FT   feature         866974..868362
+FT                   /label=pntB
+FT                   /locus_tag=pntB
+FT   feature         868363..869082
+FT                   /label=pnuC
+FT                   /locus_tag=pnuC
+FT   feature         869083..871875
+FT                   /label=polA
+FT                   /locus_tag=polA
+FT   feature         871876..873009
+FT                   /label=potA_3
+FT                   /locus_tag=potA_3
+FT   feature         873010..874323
+FT                   /label=potE
+FT                   /locus_tag=potE
+FT   feature         874324..875436
+FT                   /label=potF
+FT                   /locus_tag=potF
+FT   feature         875437..875967
+FT                   /label=ppa
+FT                   /locus_tag=ppa
+FT   feature         875968..878619
+FT                   /label=ppc
+FT                   /locus_tag=ppc
+FT   feature         878620..879114
+FT                   /label=ppiB
+FT                   /locus_tag=ppiB
+FT   feature         879115..879396
+FT                   /label=ppiC
+FT                   /locus_tag=ppiC
+FT   feature         879397..881268
+FT                   /label=ppiD
+FT                   /locus_tag=ppiD
+FT   feature         881269..883329
+FT                   /label=ppk
+FT                   /locus_tag=ppk
+FT   feature         883330..884694
+FT                   /label=ppnN
+FT                   /locus_tag=ppnN
+FT   feature         884695..884982
+FT                   /label=ppnP
+FT                   /locus_tag=ppnP
+FT   feature         884983..887361
+FT                   /label=ppsA
+FT                   /locus_tag=ppsA
+FT   feature         887362..888615
+FT                   /label=pqiA
+FT                   /locus_tag=pqiA
+FT   feature         888616..890274
+FT                   /label=pqiB
+FT                   /locus_tag=pqiB
+FT   feature         890275..892323
+FT                   /label=prc
+FT                   /locus_tag=prc
+FT   feature         892324..893406
+FT                   /label=prfA
+FT                   /locus_tag=prfA
+FT   feature         893407..894288
+FT                   /label=prfB
+FT                   /locus_tag=prfB
+FT   feature         894289..896484
+FT                   /label=priA
+FT                   /locus_tag=priA
+FT   feature         896485..896799
+FT                   /label=priB
+FT                   /locus_tag=priB
+FT   feature         896800..898842
+FT                   /label=prlC
+FT                   /locus_tag=prlC
+FT   feature         898843..899724
+FT                   /label=prmA
+FT                   /locus_tag=prmA
+FT   feature         899725..900657
+FT                   /label=prmB
+FT                   /locus_tag=prmB
+FT   feature         900658..901761
+FT                   /label=proB
+FT                   /locus_tag=proB
+FT   feature         901762..903084
+FT                   /label=proP_1
+FT                   /locus_tag=proP_1
+FT   feature         903085..904587
+FT                   /label=proP_3
+FT                   /locus_tag=proP_3
+FT   feature         904588..905274
+FT                   /label=proQ
+FT                   /locus_tag=proQ
+FT   feature         905275..906993
+FT                   /label=proS
+FT                   /locus_tag=proS
+FT   feature         906994..908067
+FT                   /label=proW
+FT                   /locus_tag=proW
+FT   feature         908068..909066
+FT                   /label=proX
+FT                   /locus_tag=proX
+FT   feature         909067..910440
+FT                   /label=proY
+FT                   /locus_tag=proY
+FT   feature         910441..911388
+FT                   /label=prs
+FT                   /locus_tag=prs
+FT   feature         911389..912057
+FT                   /label=pspA
+FT                   /locus_tag=pspA
+FT   feature         912058..913413
+FT                   /label=pssA
+FT                   /locus_tag=pssA
+FT   feature         913414..914304
+FT                   /label=pstA
+FT                   /locus_tag=pstA
+FT   feature         914305..915078
+FT                   /label=pstB
+FT                   /locus_tag=pstB
+FT   feature         915079..916038
+FT                   /label=pstC
+FT                   /locus_tag=pstC
+FT   feature         916039..917079
+FT                   /label=pstS
+FT                   /locus_tag=pstS
+FT   feature         917080..919221
+FT                   /label=pta
+FT                   /locus_tag=pta
+FT   feature         919222..919806
+FT                   /label=pth
+FT                   /locus_tag=pth
+FT   feature         919807..921240
+FT                   /label=ptsG_1
+FT                   /locus_tag=ptsG_1
+FT   feature         921241..922800
+FT                   /label=ptsG_3
+FT                   /locus_tag=ptsG_3
+FT   feature         922801..923058
+FT                   /label=ptsH
+FT                   /locus_tag=ptsH
+FT   feature         923059..924786
+FT                   /label=ptsI
+FT                   /locus_tag=ptsI
+FT   feature         924787..925278
+FT                   /label=ptsN
+FT                   /locus_tag=ptsN
+FT   feature         925279..925551
+FT                   /label=ptsO
+FT                   /locus_tag=ptsO
+FT   feature         925552..927798
+FT                   /label=ptsP
+FT                   /locus_tag=ptsP
+FT   feature         927799..929139
+FT                   /label=purA
+FT                   /locus_tag=purA
+FT   feature         929140..930510
+FT                   /label=purB
+FT                   /locus_tag=purB
+FT   feature         930511..931224
+FT                   /label=purC
+FT                   /locus_tag=purC
+FT   feature         931225..932517
+FT                   /label=purD
+FT                   /locus_tag=purD
+FT   feature         932518..934035
+FT                   /label=purF
+FT                   /locus_tag=purF
+FT   feature         934036..935625
+FT                   /label=purH
+FT                   /locus_tag=purH
+FT   feature         935626..939513
+FT                   /label=purL
+FT                   /locus_tag=purL
+FT   feature         939514..940551
+FT                   /label=purM
+FT                   /locus_tag=purM
+FT   feature         940552..941577
+FT                   /label=purR
+FT                   /locus_tag=purR
+FT   feature         941578..945540
+FT                   /label=putA
+FT                   /locus_tag=putA
+FT   feature         945541..947049
+FT                   /label=putP
+FT                   /locus_tag=putP
+FT   feature         947050..948315
+FT                   /label=puuE
+FT                   /locus_tag=puuE
+FT   feature         948316..949758
+FT                   /label=pykA
+FT                   /locus_tag=pykA
+FT   feature         949759..951180
+FT                   /label=pykF
+FT                   /locus_tag=pykF
+FT   feature         951181..952113
+FT                   /label=pyrB
+FT                   /locus_tag=pyrB
+FT   feature         952114..953124
+FT                   /label=pyrD
+FT                   /locus_tag=pyrD
+FT   feature         953125..953766
+FT                   /label=pyrE
+FT                   /locus_tag=pyrE
+FT   feature         953767..955404
+FT                   /label=pyrG_2
+FT                   /locus_tag=pyrG_2
+FT   feature         955405..956130
+FT                   /label=pyrH
+FT                   /locus_tag=pyrH
+FT   feature         956131..956592
+FT                   /label=pyrI
+FT                   /locus_tag=pyrI
+FT   feature         956593..957576
+FT                   /label=qorA
+FT                   /locus_tag=qorA
+FT   feature         957577..958914
+FT                   /label=qseF
+FT                   /locus_tag=qseF
+FT   feature         958915..959985
+FT                   /label=queA
+FT                   /locus_tag=queA
+FT   feature         959986..960348
+FT                   /label=queD
+FT                   /locus_tag=queD
+FT   feature         960349..961020
+FT                   /label=queE
+FT                   /locus_tag=queE
+FT   feature         961021..962781
+FT                   /label=radD
+FT                   /locus_tag=radD
+FT   feature         962782..963123
+FT                   /label=raiA
+FT                   /locus_tag=raiA
+FT   feature         963124..963978
+FT                   /label=rapZ
+FT                   /locus_tag=rapZ
+FT   feature         963979..965322
+FT                   /label=rarA
+FT                   /locus_tag=rarA
+FT   feature         965323..966219
+FT                   /label=rarD
+FT                   /locus_tag=rarD
+FT   feature         966220..967716
+FT                   /label=ravA
+FT                   /locus_tag=ravA
+FT   feature         967717..968121
+FT                   /label=rbfA
+FT                   /locus_tag=rbfA
+FT   feature         968122..969627
+FT                   /label=rbsA_3
+FT                   /locus_tag=rbsA_3
+FT   feature         969628..970518
+FT                   /label=rbsB_2
+FT                   /locus_tag=rbsB_2
+FT   feature         970519..971484
+FT                   /label=rbsC_3
+FT                   /locus_tag=rbsC_3
+FT   feature         971485..971904
+FT                   /label=rbsD
+FT                   /locus_tag=rbsD
+FT   feature         971905..972528
+FT                   /label=rcsA_1
+FT                   /locus_tag=rcsA_1
+FT   feature         972529..973179
+FT                   /label=rcsB
+FT                   /locus_tag=rcsB
+FT   feature         973180..976026
+FT                   /label=rcsC_2
+FT                   /locus_tag=rcsC_2
+FT   feature         976027..978699
+FT                   /label=rcsD
+FT                   /locus_tag=rcsD
+FT   feature         978700..979104
+FT                   /label=rcsF
+FT                   /locus_tag=rcsF
+FT   feature         979105..980019
+FT                   /label=rdgC
+FT                   /locus_tag=rdgC
+FT   feature         980020..981078
+FT                   /label=recA
+FT                   /locus_tag=recA
+FT   feature         981079..982152
+FT                   /label=recF
+FT                   /locus_tag=recF
+FT   feature         982153..984234
+FT                   /label=recG
+FT                   /locus_tag=recG
+FT   feature         984235..985968
+FT                   /label=recJ
+FT                   /locus_tag=recJ
+FT   feature         985969..987630
+FT                   /label=recN
+FT                   /locus_tag=recN
+FT   feature         987631..988338
+FT                   /label=recO
+FT                   /locus_tag=recO
+FT   feature         988339..990231
+FT                   /label=recQ
+FT                   /locus_tag=recQ
+FT   feature         990232..990837
+FT                   /label=recR
+FT                   /locus_tag=recR
+FT   feature         990838..991338
+FT                   /label=recX
+FT                   /locus_tag=recX
+FT   feature         991339..993570
+FT                   /label=relA
+FT                   /locus_tag=relA
+FT   feature         993571..995595
+FT                   /label=rep
+FT                   /locus_tag=rep
+FT   feature         995596..996087
+FT                   /label=rfaH
+FT                   /locus_tag=rfaH
+FT   feature         996088..996987
+FT                   /label=rhaS_3
+FT                   /locus_tag=rhaS_3
+FT   feature         996988..998256
+FT                   /label=rhlB
+FT                   /locus_tag=rhlB
+FT   feature         998257..999516
+FT                   /label=rho
+FT                   /locus_tag=rho
+FT   feature         999517..1000137
+FT                   /label=rhtB
+FT                   /locus_tag=rhtB
+FT   feature         1000138..1000758
+FT                   /label=rhtC_2
+FT                   /locus_tag=rhtC_2
+FT   feature         1000759..1001349
+FT                   /label=ribA
+FT                   /locus_tag=ribA
+FT   feature         1001350..1001994
+FT                   /label=ribC
+FT                   /locus_tag=ribC
+FT   feature         1001995..1003098
+FT                   /label=ribD
+FT                   /locus_tag=ribD
+FT   feature         1003099..1003569
+FT                   /label=ribE
+FT                   /locus_tag=ribE
+FT   feature         1003570..1004508
+FT                   /label=ribF
+FT                   /locus_tag=ribF
+FT   feature         1004509..1005093
+FT                   /label=rimJ
+FT                   /locus_tag=rimJ
+FT   feature         1005094..1006017
+FT                   /label=rimK
+FT                   /locus_tag=rimK
+FT   feature         1006018..1006554
+FT                   /label=rimM
+FT                   /locus_tag=rimM
+FT   feature         1006555..1007880
+FT                   /label=rimO
+FT                   /locus_tag=rimO
+FT   feature         1007881..1008333
+FT                   /label=rimP
+FT                   /locus_tag=rimP
+FT   feature         1008334..1009695
+FT                   /label=rlhA_2
+FT                   /locus_tag=rlhA_2
+FT   feature         1009696..1010322
+FT                   /label=rlmE
+FT                   /locus_tag=rlmE
+FT   feature         1010323..1011459
+FT                   /label=rlmG
+FT                   /locus_tag=rlmG
+FT   feature         1011460..1013568
+FT                   /label=rlmL
+FT                   /locus_tag=rlmL
+FT   feature         1013569..1014669
+FT                   /label=rlmM
+FT                   /locus_tag=rlmM
+FT   feature         1014670..1015836
+FT                   /label=rlmN
+FT                   /locus_tag=rlmN
+FT   feature         1015837..1016496
+FT                   /label=rluA_2
+FT                   /locus_tag=rluA_2
+FT   feature         1016497..1017444
+FT                   /label=rluC
+FT                   /locus_tag=rluC
+FT   feature         1017445..1018425
+FT                   /label=rluD
+FT                   /locus_tag=rluD
+FT   feature         1018426..1019145
+FT                   /label=rnc
+FT                   /locus_tag=rnc
+FT   feature         1019146..1020615
+FT                   /label=rng
+FT                   /locus_tag=rng
+FT   feature         1020616..1021083
+FT                   /label=rnhA
+FT                   /locus_tag=rnhA
+FT   feature         1021084..1021680
+FT                   /label=rnhB
+FT                   /locus_tag=rnhB
+FT   feature         1021681..1024125
+FT                   /label=rnr
+FT                   /locus_tag=rnr
+FT   feature         1024126..1024785
+FT                   /label=rnt
+FT                   /locus_tag=rnt
+FT   feature         1024786..1025655
+FT                   /label=rob
+FT                   /locus_tag=rob
+FT   feature         1025656..1025916
+FT                   /label=rof
+FT                   /locus_tag=rof
+FT   feature         1025917..1026594
+FT                   /label=rpe
+FT                   /locus_tag=rpe
+FT   feature         1026595..1027311
+FT                   /label=rph
+FT                   /locus_tag=rph
+FT   feature         1027312..1027971
+FT                   /label=rpiA
+FT                   /locus_tag=rpiA
+FT   feature         1027972..1028676
+FT                   /label=rplA
+FT                   /locus_tag=rplA
+FT   feature         1028677..1029498
+FT                   /label=rplB
+FT                   /locus_tag=rplB
+FT   feature         1029499..1030128
+FT                   /label=rplC
+FT                   /locus_tag=rplC
+FT   feature         1030129..1030734
+FT                   /label=rplD
+FT                   /locus_tag=rplD
+FT   feature         1030735..1031274
+FT                   /label=rplE
+FT                   /locus_tag=rplE
+FT   feature         1031275..1031808
+FT                   /label=rplF
+FT                   /locus_tag=rplF
+FT   feature         1031809..1032258
+FT                   /label=rplI
+FT                   /locus_tag=rplI
+FT   feature         1032259..1032756
+FT                   /label=rplJ
+FT                   /locus_tag=rplJ
+FT   feature         1032757..1033185
+FT                   /label=rplK
+FT                   /locus_tag=rplK
+FT   feature         1033186..1033551
+FT                   /label=rplL
+FT                   /locus_tag=rplL
+FT   feature         1033552..1033980
+FT                   /label=rplM
+FT                   /locus_tag=rplM
+FT   feature         1033981..1034352
+FT                   /label=rplN
+FT                   /locus_tag=rplN
+FT   feature         1034353..1034787
+FT                   /label=rplO
+FT                   /locus_tag=rplO
+FT   feature         1034788..1035198
+FT                   /label=rplP
+FT                   /locus_tag=rplP
+FT   feature         1035199..1035585
+FT                   /label=rplQ
+FT                   /locus_tag=rplQ
+FT   feature         1035586..1035939
+FT                   /label=rplR
+FT                   /locus_tag=rplR
+FT   feature         1035940..1036287
+FT                   /label=rplS
+FT                   /locus_tag=rplS
+FT   feature         1036288..1036644
+FT                   /label=rplT
+FT                   /locus_tag=rplT
+FT   feature         1036645..1036956
+FT                   /label=rplU
+FT                   /locus_tag=rplU
+FT   feature         1036957..1037289
+FT                   /label=rplV
+FT                   /locus_tag=rplV
+FT   feature         1037290..1037592
+FT                   /label=rplW
+FT                   /locus_tag=rplW
+FT   feature         1037593..1037907
+FT                   /label=rplX
+FT                   /locus_tag=rplX
+FT   feature         1037908..1038165
+FT                   /label=rpmA
+FT                   /locus_tag=rpmA
+FT   feature         1038166..1038402
+FT                   /label=rpmB
+FT                   /locus_tag=rpmB
+FT   feature         1038403..1038594
+FT                   /label=rpmC
+FT                   /locus_tag=rpmC
+FT   feature         1038595..1038774
+FT                   /label=rpmD
+FT                   /locus_tag=rpmD
+FT   feature         1038775..1038987
+FT                   /label=rpmE
+FT                   /locus_tag=rpmE
+FT   feature         1038988..1039161
+FT                   /label=rpmF
+FT                   /locus_tag=rpmF
+FT   feature         1039162..1039329
+FT                   /label=rpmG
+FT                   /locus_tag=rpmG
+FT   feature         1039330..1039527
+FT                   /label=rpmI
+FT                   /locus_tag=rpmI
+FT   feature         1039528..1040517
+FT                   /label=rpoA
+FT                   /locus_tag=rpoA
+FT   feature         1040518..1044546
+FT                   /label=rpoB
+FT                   /locus_tag=rpoB
+FT   feature         1044547..1048770
+FT                   /label=rpoC
+FT                   /locus_tag=rpoC
+FT   feature         1048771..1050618
+FT                   /label=rpoD
+FT                   /locus_tag=rpoD
+FT   feature         1050619..1051194
+FT                   /label=rpoE
+FT                   /locus_tag=rpoE
+FT   feature         1051195..1052052
+FT                   /label=rpoH
+FT                   /locus_tag=rpoH
+FT   feature         1052053..1053486
+FT                   /label=rpoN
+FT                   /locus_tag=rpoN
+FT   feature         1053487..1054479
+FT                   /label=rpoS
+FT                   /locus_tag=rpoS
+FT   feature         1054480..1054755
+FT                   /label=rpoZ
+FT                   /locus_tag=rpoZ
+FT   feature         1054756..1055220
+FT                   /label=rppH
+FT                   /locus_tag=rppH
+FT   feature         1055221..1056894
+FT                   /label=rpsA
+FT                   /locus_tag=rpsA
+FT   feature         1056895..1057620
+FT                   /label=rpsB
+FT                   /locus_tag=rpsB
+FT   feature         1057621..1058322
+FT                   /label=rpsC
+FT                   /locus_tag=rpsC
+FT   feature         1058323..1058943
+FT                   /label=rpsD
+FT                   /locus_tag=rpsD
+FT   feature         1058944..1059444
+FT                   /label=rpsE
+FT                   /locus_tag=rpsE
+FT   feature         1059445..1059840
+FT                   /label=rpsF
+FT                   /locus_tag=rpsF
+FT   feature         1059841..1060311
+FT                   /label=rpsG
+FT                   /locus_tag=rpsG
+FT   feature         1060312..1060704
+FT                   /label=rpsH
+FT                   /locus_tag=rpsH
+FT   feature         1060705..1061097
+FT                   /label=rpsI
+FT                   /locus_tag=rpsI
+FT   feature         1061098..1061409
+FT                   /label=rpsJ
+FT                   /locus_tag=rpsJ
+FT   feature         1061410..1061784
+FT                   /label=rpsL
+FT                   /locus_tag=rpsL
+FT   feature         1061785..1062141
+FT                   /label=rpsM
+FT                   /locus_tag=rpsM
+FT   feature         1062142..1062447
+FT                   /label=rpsN
+FT                   /locus_tag=rpsN
+FT   feature         1062448..1062717
+FT                   /label=rpsO
+FT                   /locus_tag=rpsO
+FT   feature         1062718..1062966
+FT                   /label=rpsP
+FT                   /locus_tag=rpsP
+FT   feature         1062967..1063221
+FT                   /label=rpsQ
+FT                   /locus_tag=rpsQ
+FT   feature         1063222..1063449
+FT                   /label=rpsR
+FT                   /locus_tag=rpsR
+FT   feature         1063450..1063728
+FT                   /label=rpsS
+FT                   /locus_tag=rpsS
+FT   feature         1063729..1063992
+FT                   /label=rpsT
+FT                   /locus_tag=rpsT
+FT   feature         1063993..1064208
+FT                   /label=rpsU
+FT                   /locus_tag=rpsU
+FT   feature         1064209..1064694
+FT                   /label=rraA
+FT                   /locus_tag=rraA
+FT   feature         1064695..1065120
+FT                   /label=rraB
+FT                   /locus_tag=rraB
+FT   feature         1065121..1065771
+FT                   /label=rseA
+FT                   /locus_tag=rseA
+FT   feature         1065772..1066725
+FT                   /label=rseB
+FT                   /locus_tag=rseB
+FT   feature         1066726..1068078
+FT                   /label=rseP
+FT                   /locus_tag=rseP
+FT   feature         1068079..1068516
+FT                   /label=rsfS
+FT                   /locus_tag=rsfS
+FT   feature         1068517..1069338
+FT                   /label=rsmA
+FT                   /locus_tag=rsmA
+FT   feature         1069339..1069941
+FT                   /label=rsmD
+FT                   /locus_tag=rsmD
+FT   feature         1069942..1070883
+FT                   /label=rsmH
+FT                   /locus_tag=rsmH
+FT   feature         1070884..1071687
+FT                   /label=rsmJ
+FT                   /locus_tag=rsmJ
+FT   feature         1071688..1072395
+FT                   /label=rsuA
+FT                   /locus_tag=rsuA
+FT   feature         1072396..1072974
+FT                   /label=rsxB
+FT                   /locus_tag=rsxB
+FT   feature         1072975..1073661
+FT                   /label=rsxE
+FT                   /locus_tag=rsxE
+FT   feature         1073662..1074276
+FT                   /label=ruvA
+FT                   /locus_tag=ruvA
+FT   feature         1074277..1075287
+FT                   /label=ruvB
+FT                   /locus_tag=ruvB
+FT   feature         1075288..1075809
+FT                   /label=ruvC
+FT                   /locus_tag=ruvC
+FT   feature         1075810..1077450
+FT                   /label=sapA
+FT                   /locus_tag=sapA
+FT   feature         1077451..1078416
+FT                   /label=sapB
+FT                   /locus_tag=sapB
+FT   feature         1078417..1078983
+FT                   /label=satP
+FT                   /locus_tag=satP
+FT   feature         1078984..1079973
+FT                   /label=sbp
+FT                   /locus_tag=sbp
+FT   feature         1079974..1081338
+FT                   /label=sdaA
+FT                   /locus_tag=sdaA
+FT   feature         1081339..1082706
+FT                   /label=sdaB
+FT                   /locus_tag=sdaB
+FT   feature         1082707..1084002
+FT                   /label=sdaC
+FT                   /locus_tag=sdaC
+FT   feature         1084003..1085769
+FT                   /label=sdhA
+FT                   /locus_tag=sdhA
+FT   feature         1085770..1086486
+FT                   /label=sdhB
+FT                   /locus_tag=sdhB
+FT   feature         1086487..1086975
+FT                   /label=sdhC
+FT                   /locus_tag=sdhC
+FT   feature         1086976..1087323
+FT                   /label=sdhD
+FT                   /locus_tag=sdhD
+FT   feature         1087324..1087590
+FT                   /label=sdhE
+FT                   /locus_tag=sdhE
+FT   feature         1087591..1090296
+FT                   /label=secA
+FT                   /locus_tag=secA
+FT   feature         1090297..1090764
+FT                   /label=secB
+FT                   /locus_tag=secB
+FT   feature         1090765..1092579
+FT                   /label=secD
+FT                   /locus_tag=secD
+FT   feature         1092580..1092963
+FT                   /label=secE
+FT                   /locus_tag=secE
+FT   feature         1092964..1093935
+FT                   /label=secF
+FT                   /locus_tag=secF
+FT   feature         1093936..1094268
+FT                   /label=secG
+FT                   /locus_tag=secG
+FT   feature         1094269..1095600
+FT                   /label=secY
+FT                   /locus_tag=secY
+FT   feature         1095601..1096149
+FT                   /label=seqA
+FT                   /locus_tag=seqA
+FT   feature         1096150..1097382
+FT                   /label=serA
+FT                   /locus_tag=serA
+FT   feature         1097383..1098471
+FT                   /label=serC
+FT                   /locus_tag=serC
+FT   feature         1098472..1099764
+FT                   /label=serS
+FT                   /locus_tag=serS
+FT   feature         1099765..1100250
+FT                   /label=sixA
+FT                   /locus_tag=sixA
+FT   feature         1100251..1100745
+FT                   /label=skp
+FT                   /locus_tag=skp
+FT   feature         1100746..1101342
+FT                   /label=slmA
+FT                   /locus_tag=slmA
+FT   feature         1101343..1103280
+FT                   /label=slt
+FT                   /locus_tag=slt
+FT   feature         1103281..1103715
+FT                   /label=slyA_1
+FT                   /locus_tag=slyA_1
+FT   feature         1103716..1104189
+FT                   /label=smg
+FT                   /locus_tag=smg
+FT   feature         1104190..1104672
+FT                   /label=smpB
+FT                   /locus_tag=smpB
+FT   feature         1104673..1105293
+FT                   /label=sodA
+FT                   /locus_tag=sodA
+FT   feature         1105294..1105875
+FT                   /label=sodB
+FT                   /locus_tag=sodB
+FT   feature         1105876..1106922
+FT                   /label=sohB
+FT                   /locus_tag=sohB
+FT   feature         1106923..1108899
+FT                   /label=speA
+FT                   /locus_tag=speA
+FT   feature         1108900..1109694
+FT                   /label=speD
+FT                   /locus_tag=speD
+FT   feature         1109695..1110564
+FT                   /label=speE
+FT                   /locus_tag=speE
+FT   feature         1110565..1112763
+FT                   /label=speF
+FT                   /locus_tag=speF
+FT   feature         1112764..1114878
+FT                   /label=spoT
+FT                   /locus_tag=spoT
+FT   feature         1114879..1115376
+FT                   /label=sprT
+FT                   /locus_tag=sprT
+FT   feature         1115377..1115514
+FT                   /label=sra
+FT                   /locus_tag=sra
+FT   feature         1115515..1116843
+FT                   /label=srmB
+FT                   /locus_tag=srmB
+FT   feature         1116844..1117374
+FT                   /label=ssb
+FT                   /locus_tag=ssb
+FT   feature         1117375..1118013
+FT                   /label=sspA
+FT                   /locus_tag=sspA
+FT   feature         1118014..1119255
+FT                   /label=sstT
+FT                   /locus_tag=sstT
+FT   feature         1119256..1120047
+FT                   /label=ssuC_1
+FT                   /locus_tag=ssuC_1
+FT   feature         1120048..1121193
+FT                   /label=ssuD
+FT                   /locus_tag=ssuD
+FT   feature         1121194..1121769
+FT                   /label=ssuE
+FT                   /locus_tag=ssuE
+FT   feature         1121770..1123170
+FT                   /label=sthA
+FT                   /locus_tag=sthA
+FT   feature         1123171..1125978
+FT                   /label=sucA
+FT                   /locus_tag=sucA
+FT   feature         1125979..1127205
+FT                   /label=sucB
+FT                   /locus_tag=sucB
+FT   feature         1127206..1128372
+FT                   /label=sucC
+FT                   /locus_tag=sucC
+FT   feature         1128373..1129242
+FT                   /label=sucD
+FT                   /locus_tag=sucD
+FT   feature         1129243..1130529
+FT                   /label=surA
+FT                   /locus_tag=surA
+FT   feature         1130530..1131291
+FT                   /label=surE
+FT                   /locus_tag=surE
+FT   feature         1131292..1131837
+FT                   /label=syd
+FT                   /locus_tag=syd
+FT   feature         1131838..1132377
+FT                   /label=tadA_2
+FT                   /locus_tag=tadA_2
+FT   feature         1132378..1133331
+FT                   /label=talB
+FT                   /locus_tag=talB
+FT   feature         1133332..1134372
+FT                   /label=tas
+FT                   /locus_tag=tas
+FT   feature         1134373..1135143
+FT                   /label=tatC
+FT                   /locus_tag=tatC
+FT   feature         1135144..1135950
+FT                   /label=tcdA
+FT                   /locus_tag=tcdA
+FT   feature         1135951..1137342
+FT                   /label=tcyP
+FT                   /locus_tag=tcyP
+FT   feature         1137343..1138203
+FT                   /label=tesB
+FT                   /locus_tag=tesB
+FT   feature         1138204..1139331
+FT                   /label=tgt
+FT                   /locus_tag=tgt
+FT   feature         1139332..1140303
+FT                   /label=thiL
+FT                   /locus_tag=thiL
+FT   feature         1140304..1141590
+FT                   /label=thrC
+FT                   /locus_tag=thrC
+FT   feature         1141591..1143519
+FT                   /label=thrS
+FT                   /locus_tag=thrS
+FT   feature         1143520..1144818
+FT                   /label=tig
+FT                   /locus_tag=tig
+FT   feature         1144819..1145877
+FT                   /label=tipA
+FT                   /locus_tag=tipA
+FT   feature         1145878..1147869
+FT                   /label=tktA
+FT                   /locus_tag=tktA
+FT   feature         1147870..1149315
+FT                   /label=tldD
+FT                   /locus_tag=tldD
+FT   feature         1149316..1150008
+FT                   /label=tolQ
+FT                   /locus_tag=tolQ
+FT   feature         1150009..1150437
+FT                   /label=tolR
+FT                   /locus_tag=tolR
+FT   feature         1150438..1150812
+FT                   /label=tomB
+FT                   /locus_tag=tomB
+FT   feature         1150813..1153410
+FT                   /label=topA_1
+FT                   /locus_tag=topA_1
+FT   feature         1153411..1154178
+FT                   /label=tpiA
+FT                   /locus_tag=tpiA
+FT   feature         1154179..1155279
+FT                   /label=trmA
+FT                   /locus_tag=trmA
+FT   feature         1155280..1155999
+FT                   /label=trmB
+FT                   /locus_tag=trmB
+FT   feature         1156000..1156767
+FT                   /label=trmD
+FT                   /locus_tag=trmD
+FT   feature         1156768..1157241
+FT                   /label=trmL
+FT                   /locus_tag=trmL
+FT   feature         1157242..1157571
+FT                   /label=trpR
+FT                   /locus_tag=trpR
+FT   feature         1157572..1158384
+FT                   /label=truA
+FT                   /locus_tag=truA
+FT   feature         1158385..1159335
+FT                   /label=truB
+FT                   /locus_tag=truB
+FT   feature         1159336..1159665
+FT                   /label=trxA
+FT                   /locus_tag=trxA
+FT   feature         1159666..1160661
+FT                   /label=trxB
+FT                   /locus_tag=trxB
+FT   feature         1160662..1161081
+FT                   /label=trxC
+FT                   /locus_tag=trxC
+FT   feature         1161082..1162095
+FT                   /label=tsaD
+FT                   /locus_tag=tsaD
+FT   feature         1162096..1162557
+FT                   /label=tsaE
+FT                   /locus_tag=tsaE
+FT   feature         1162558..1163478
+FT                   /label=tsaR_2
+FT                   /locus_tag=tsaR_2
+FT   feature         1163479..1164330
+FT                   /label=tsf
+FT                   /locus_tag=tsf
+FT   feature         1164331..1164468
+FT                   /label=tuf1_1
+FT                   /locus_tag=tuf1_1
+FT   feature         1164469..1166034
+FT                   /label=tyrR
+FT                   /locus_tag=tyrR
+FT   feature         1166035..1167312
+FT                   /label=tyrS
+FT                   /locus_tag=tyrS
+FT   feature         1167313..1168818
+FT                   /label=ubiD
+FT                   /locus_tag=ubiD
+FT   feature         1168819..1169547
+FT                   /label=ubiG
+FT                   /locus_tag=ubiG
+FT   feature         1169548..1170750
+FT                   /label=ubiI
+FT                   /locus_tag=ubiI
+FT   feature         1170751..1171410
+FT                   /label=ubiX
+FT                   /locus_tag=ubiX
+FT   feature         1171411..1172328
+FT                   /label=ugpA
+FT                   /locus_tag=ugpA
+FT   feature         1172329..1173645
+FT                   /label=ugpB
+FT                   /locus_tag=ugpB
+FT   feature         1173646..1174239
+FT                   /label=uhpA
+FT                   /locus_tag=uhpA
+FT   feature         1174240..1175745
+FT                   /label=uhpB
+FT                   /locus_tag=uhpB
+FT   feature         1175746..1177065
+FT                   /label=uhpC
+FT                   /locus_tag=uhpC
+FT   feature         1177066..1178463
+FT                   /label=uhpT
+FT                   /locus_tag=uhpT
+FT   feature         1178464..1179855
+FT                   /label=ulaA_1
+FT                   /locus_tag=ulaA_1
+FT   feature         1179856..1180545
+FT                   /label=ung
+FT                   /locus_tag=ung
+FT   feature         1180546..1181172
+FT                   /label=upp
+FT                   /locus_tag=upp
+FT   feature         1181173..1181994
+FT                   /label=uppP
+FT                   /locus_tag=uppP
+FT   feature         1181995..1183284
+FT                   /label=uraA
+FT                   /locus_tag=uraA
+FT   feature         1183285..1183902
+FT                   /label=ureG
+FT                   /locus_tag=ureG
+FT   feature         1183903..1185555
+FT                   /label=ushA
+FT                   /locus_tag=ushA
+FT   feature         1185556..1185993
+FT                   /label=uspA
+FT                   /locus_tag=uspA
+FT   feature         1185994..1186329
+FT                   /label=uspB
+FT                   /locus_tag=uspB
+FT   feature         1186330..1187280
+FT                   /label=uspE
+FT                   /locus_tag=uspE
+FT   feature         1187281..1189188
+FT                   /label=uup
+FT                   /locus_tag=uup
+FT   feature         1189189..1192011
+FT                   /label=uvrA
+FT                   /locus_tag=uvrA
+FT   feature         1192012..1193844
+FT                   /label=uvrC
+FT                   /locus_tag=uvrC
+FT   feature         1193845..1196007
+FT                   /label=uvrD
+FT                   /locus_tag=uvrD
+FT   feature         1196008..1196664
+FT                   /label=uvrY
+FT                   /locus_tag=uvrY
+FT   feature         1196665..1198152
+FT                   /label=uxaA
+FT                   /locus_tag=uxaA
+FT   feature         1198153..1199565
+FT                   /label=uxaC
+FT                   /locus_tag=uxaC
+FT   feature         1199566..1202421
+FT                   /label=valS
+FT                   /locus_tag=valS
+FT   feature         1202422..1203873
+FT                   /label=viaA
+FT                   /locus_tag=viaA
+FT   feature         1203874..1205268
+FT                   /label=wcaJ
+FT                   /locus_tag=wcaJ
+FT   feature         1205269..1207431
+FT                   /label=wzc
+FT                   /locus_tag=wzc
+FT   feature         1207432..1208910
+FT                   /label=wzxC
+FT                   /locus_tag=wzxC
+FT   feature         1208911..1210302
+FT                   /label=xanP
+FT                   /locus_tag=xanP
+FT   feature         1210303..1211205
+FT                   /label=xerC_5
+FT                   /locus_tag=xerC_5
+FT   feature         1211206..1212102
+FT                   /label=xerD
+FT                   /locus_tag=xerD
+FT   feature         1212103..1213476
+FT                   /label=xseA
+FT                   /locus_tag=xseA
+FT   feature         1213477..1214655
+FT                   /label=xylR
+FT                   /locus_tag=xylR
+FT   feature         1214656..1215429
+FT                   /label=yaaA
+FT                   /locus_tag=yaaA
+FT   feature         1215430..1216356
+FT                   /label=yadG
+FT                   /locus_tag=yadG
+FT   feature         1216357..1216902
+FT                   /label=yaeQ
+FT                   /locus_tag=yaeQ
+FT   feature         1216903..1217670
+FT                   /label=yafJ
+FT                   /locus_tag=yafJ
+FT   feature         1217671..1218441
+FT                   /label=yafV
+FT                   /locus_tag=yafV
+FT   feature         1218442..1219353
+FT                   /label=yahB_1
+FT                   /locus_tag=yahB_1
+FT   feature         1219354..1219686
+FT                   /label=yajC
+FT                   /locus_tag=yajC
+FT   feature         1219687..1220280
+FT                   /label=yajL_2
+FT                   /locus_tag=yajL_2
+FT   feature         1220281..1221642
+FT                   /label=yajR_1
+FT                   /locus_tag=yajR_1
+FT   feature         1221643..1221975
+FT                   /label=ybaB
+FT                   /locus_tag=ybaB
+FT   feature         1221976..1223652
+FT                   /label=ybaL
+FT                   /locus_tag=ybaL
+FT   feature         1223653..1224030
+FT                   /label=ybaN
+FT                   /locus_tag=ybaN
+FT   feature         1224031..1224498
+FT                   /label=ybeY
+FT                   /locus_tag=ybeY
+FT   feature         1224499..1225545
+FT                   /label=ybeZ
+FT                   /locus_tag=ybeZ
+FT   feature         1225546..1225833
+FT                   /label=ybfE
+FT                   /locus_tag=ybfE
+FT   feature         1225834..1226238
+FT                   /label=ybgC
+FT                   /locus_tag=ybgC
+FT   feature         1226239..1226946
+FT                   /label=ybhL
+FT                   /locus_tag=ybhL
+FT   feature         1226947..1227909
+FT                   /label=ybhN
+FT                   /locus_tag=ybhN
+FT   feature         1227910..1228896
+FT                   /label=ybiS
+FT                   /locus_tag=ybiS
+FT   feature         1228897..1230492
+FT                   /label=ybiT
+FT                   /locus_tag=ybiT
+FT   feature         1230493..1230969
+FT                   /label=ybjN
+FT                   /locus_tag=ybjN
+FT   feature         1230970..1231647
+FT                   /label=ycaC
+FT                   /locus_tag=ycaC
+FT   feature         1231648..1232796
+FT                   /label=ycaD
+FT                   /locus_tag=ycaD
+FT   feature         1232797..1234557
+FT                   /label=ycaO
+FT                   /locus_tag=ycaO
+FT   feature         1234558..1235079
+FT                   /label=yceD
+FT                   /locus_tag=yceD
+FT   feature         1235080..1235874
+FT                   /label=ycfH
+FT                   /locus_tag=ycfH
+FT   feature         1235875..1236150
+FT                   /label=ycgL
+FT                   /locus_tag=ycgL
+FT   feature         1236151..1236810
+FT                   /label=ycgM
+FT                   /locus_tag=ycgM
+FT   feature         1236811..1237905
+FT                   /label=ychF
+FT                   /locus_tag=ychF
+FT   feature         1237906..1238157
+FT                   /label=yciN
+FT                   /locus_tag=yciN
+FT   feature         1238158..1239540
+FT                   /label=ydgI
+FT                   /locus_tag=ydgI
+FT   feature         1239541..1239981
+FT                   /label=ydgK
+FT                   /locus_tag=ydgK
+FT   feature         1239982..1240197
+FT                   /label=ydgT
+FT                   /locus_tag=ydgT
+FT   feature         1240198..1241364
+FT                   /label=ydhP_1
+FT                   /locus_tag=ydhP_1
+FT   feature         1241365..1241955
+FT                   /label=ydjM
+FT                   /locus_tag=ydjM
+FT   feature         1241956..1242696
+FT                   /label=yebC
+FT                   /locus_tag=yebC
+FT   feature         1242697..1243980
+FT                   /label=yebS
+FT                   /locus_tag=yebS
+FT   feature         1243981..1246614
+FT                   /label=yebT
+FT                   /locus_tag=yebT
+FT   feature         1246615..1247175
+FT                   /label=yecM
+FT                   /locus_tag=yecM
+FT   feature         1247176..1247571
+FT                   /label=yecN
+FT                   /locus_tag=yecN
+FT   feature         1247572..1248240
+FT                   /label=yecS_2
+FT                   /locus_tag=yecS_2
+FT   feature         1248241..1249749
+FT                   /label=yeeO
+FT                   /locus_tag=yeeO
+FT   feature         1249750..1250757
+FT                   /label=yejK
+FT                   /locus_tag=yejK
+FT   feature         1250758..1251357
+FT                   /label=yfbR
+FT                   /locus_tag=yfbR
+FT   feature         1251358..1252167
+FT                   /label=yfcA
+FT                   /locus_tag=yfcA
+FT   feature         1252168..1252428
+FT                   /label=yfhL
+FT                   /locus_tag=yfhL
+FT   feature         1252429..1253895
+FT                   /label=ygcS
+FT                   /locus_tag=ygcS
+FT   feature         1253896..1254654
+FT                   /label=ygdG
+FT                   /locus_tag=ygdG
+FT   feature         1254655..1254873
+FT                   /label=ygdR_2
+FT                   /locus_tag=ygdR_2
+FT   feature         1254874..1255107
+FT                   /label=ygdR_3
+FT                   /locus_tag=ygdR_3
+FT   feature         1255108..1255380
+FT                   /label=yggX
+FT                   /locus_tag=yggX
+FT   feature         1255381..1256040
+FT                   /label=yghB
+FT                   /locus_tag=yghB
+FT   feature         1256041..1256544
+FT                   /label=ygjP
+FT                   /locus_tag=ygjP
+FT   feature         1256545..1257447
+FT                   /label=yhaJ_2
+FT                   /locus_tag=yhaJ_2
+FT   feature         1257448..1258413
+FT                   /label=yhbE
+FT                   /locus_tag=yhbE
+FT   feature         1258414..1259409
+FT                   /label=yhbU
+FT                   /locus_tag=yhbU
+FT   feature         1259410..1259742
+FT                   /label=yhbY
+FT                   /locus_tag=yhbY
+FT   feature         1259743..1260141
+FT                   /label=yhcB
+FT                   /locus_tag=yhcB
+FT   feature         1260142..1260414
+FT                   /label=yhcO
+FT                   /locus_tag=yhcO
+FT   feature         1260415..1261008
+FT                   /label=yhdE
+FT                   /locus_tag=yhdE
+FT   feature         1261009..1261251
+FT                   /label=yhdT
+FT                   /locus_tag=yhdT
+FT   feature         1261252..1262277
+FT                   /label=yhdW
+FT                   /locus_tag=yhdW
+FT   feature         1262278..1263381
+FT                   /label=yhdY
+FT                   /locus_tag=yhdY
+FT   feature         1263382..1263786
+FT                   /label=yhfA
+FT                   /locus_tag=yhfA
+FT   feature         1263787..1266117
+FT                   /label=yhgF
+FT                   /locus_tag=yhgF
+FT   feature         1266118..1267182
+FT                   /label=yhhT_1
+FT                   /locus_tag=yhhT_1
+FT   feature         1267183..1267614
+FT                   /label=yibN
+FT                   /locus_tag=yibN
+FT   feature         1267615..1269012
+FT                   /label=yicJ_1
+FT                   /locus_tag=yicJ_1
+FT   feature         1269013..1270404
+FT                   /label=yicJ_2
+FT                   /locus_tag=yicJ_2
+FT   feature         1270405..1271310
+FT                   /label=yicL
+FT                   /locus_tag=yicL
+FT   feature         1271311..1272954
+FT                   /label=yidC
+FT                   /locus_tag=yidC
+FT   feature         1272955..1273926
+FT                   /label=yidZ
+FT                   /locus_tag=yidZ
+FT   feature         1273927..1274592
+FT                   /label=yieH
+FT                   /locus_tag=yieH
+FT   feature         1274593..1275978
+FT                   /label=yifK
+FT                   /locus_tag=yifK
+FT   feature         1275979..1276779
+FT                   /label=yigL
+FT                   /locus_tag=yigL
+FT   feature         1276780..1277049
+FT                   /label=yihD
+FT                   /locus_tag=yihD
+FT   feature         1277050..1277565
+FT                   /label=yihI
+FT                   /locus_tag=yihI
+FT   feature         1277566..1278240
+FT                   /label=yiiM
+FT                   /locus_tag=yiiM
+FT   feature         1278241..1278600
+FT                   /label=yijD
+FT                   /locus_tag=yijD
+FT   feature         1278601..1279602
+FT                   /label=yjfF
+FT                   /locus_tag=yjfF
+FT   feature         1279603..1280379
+FT                   /label=yjjP
+FT                   /locus_tag=yjjP
+FT   feature         1280380..1280508
+FT                   /label=ymiA
+FT                   /locus_tag=ymiA
+FT   feature         1280509..1281375
+FT                   /label=ypjD
+FT                   /locus_tag=ypjD
+FT   feature         1281376..1281804
+FT                   /label=yqaA
+FT                   /locus_tag=yqaA
+FT   feature         1281805..1282968
+FT                   /label=yqhD
+FT                   /locus_tag=yqhD
+FT   feature         1282969..1283631
+FT                   /label=yqjA_2
+FT                   /locus_tag=yqjA_2
+FT   feature         1283632..1284000
+FT                   /label=yqjC
+FT                   /locus_tag=yqjC
+FT   feature         1284001..1284306
+FT                   /label=yqjD
+FT                   /locus_tag=yqjD
+FT   feature         1284307..1284705
+FT                   /label=yqjE
+FT                   /locus_tag=yqjE
+FT   feature         1284706..1285098
+FT                   /label=yqjF
+FT                   /locus_tag=yqjF
+FT   feature         1285099..1286085
+FT                   /label=yqjG
+FT                   /locus_tag=yqjG
+FT   feature         1286086..1286769
+FT                   /label=yrfG
+FT                   /locus_tag=yrfG
+FT   feature         1286770..1287114
+FT                   /label=ytfP
+FT                   /locus_tag=ytfP
+FT   feature         1287115..1288071
+FT                   /label=ytfQ
+FT                   /locus_tag=ytfQ
+FT   feature         1288072..1289094
+FT                   /label=ytfT
+FT                   /locus_tag=ytfT
+FT   feature         1289095..1290696
+FT                   /label=ywrD
+FT                   /locus_tag=ywrD
+FT   feature         1290697..1291026
+FT                   /label=zapA
+FT                   /locus_tag=zapA
+FT   feature         1291027..1291266
+FT                   /label=zapB
+FT                   /locus_tag=zapB
+FT   feature         1291267..1291809
+FT                   /label=zapC
+FT                   /locus_tag=zapC
+FT   feature         1291810..1292799
+FT                   /label=zipA
+FT                   /locus_tag=zipA
+FT   feature         1292800..1293585
+FT                   /label=znuB
+FT                   /locus_tag=znuB
+FT   feature         1293586..1294341
+FT                   /label=znuC
+FT                   /locus_tag=znuC
+FT   feature         1294342..1295817
+FT                   /label=zwf
+FT                   /locus_tag=zwf
+XX
+SQ   Sequence 1234 BP; 789 A; 1717 C; 1693 G; 691 T; 0 other;
+//
